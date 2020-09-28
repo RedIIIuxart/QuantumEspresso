@@ -1,0 +1,6 @@
+The procedure for the density of states (DOS) determining:
+
+1. Оптимизация структуры: mpirun -np 10 ~/q-e-qe-6.5/bin/pw.x -input relax.inp | tee relax.out
+2. SCF расчет: mpirun -np 10 ~/q-e-qe-6.5/bin/pw.x -input scf.inp | tee scf.out
+3. NSCF расчет: mpirun -np 10 ~/q-e-qe-6.5/bin/pw.x -input nscf.inp | tee nscf.out
+4. Получение DOS: mpirun -np 10 ~/q-e-qe-6.5/bin/dos.x -input dos.inp > dos.out

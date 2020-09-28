@@ -1,0 +1,48 @@
+&CONTROL
+title='Unstrained graphene optimization. 2 atoms fragment. SCF' ,
+calculation = 'scf' ,
+verbosity = 'high' ,
+restart_mode = 'from_scratch' ,
+iprint = 1 ,
+nstep = 200 ,
+tstress = .true. ,
+tprnfor = .true. ,
+outdir = './' ,
+pseudo_dir = './' ,
+prefix = 'Gr' ,
+etot_conv_thr = 1.0D-6 ,
+forc_conv_thr = 1.0D-5 ,
+disk_io = 'default' ,
+wf_collect = .true. ,
+/                      
+
+&SYSTEM
+ibrav = 4 ,
+A = 2.4623 ,
+C = 10 ,
+nat = 2 ,
+ntyp = 1 ,
+ecutwfc = 52.0 ,
+ecutrho = 208.0 ,
+occupations = 'smearing' ,
+smearing = 'methfessel-paxton' ,
+degauss = 0.02D0 ,
+nbnd = 8 ,
+/
+
+&ELECTRONS
+electron_maxstep = 200 ,
+conv_thr = 1.0D-6 ,
+mixing_beta = 0.7 ,
+diagonalization = 'david' ,
+/
+
+ATOMIC_SPECIES
+C    12.011    C.pbe-n-kjpaw_psl.0.1.UPF
+
+ATOMIC_POSITIONS (crystal)
+C  0.333333333  0.666666666  0.500000000
+C  0.666666666  0.333333333  0.500000000
+
+K_POINTS automatic 
+12 12 1   0 0 0

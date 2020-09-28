@@ -1,0 +1,8 @@
+&DOS
+ prefix='Gr' ,
+ outdir='./' ,
+ fildos='Gr.dos' ,
+ emin=-21.0 ,
+ emax= 15.0 ,
+/
+

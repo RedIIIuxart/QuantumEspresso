@@ -1,0 +1,6 @@
+&BANDS
+ outdir='./',
+ prefix='Gr',
+ filband='Gr.bands',
+/
+
