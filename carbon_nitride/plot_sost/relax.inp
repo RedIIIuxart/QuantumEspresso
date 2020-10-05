@@ -18,7 +18,7 @@ wf_collect = .true. ,
 
 &SYSTEM
 ibrav = 4 ,
-A = 3,858 ,
+A = 2.68,
 C = 10 ,
 nat = 2 ,
 ntyp = 2 ,
@@ -53,6 +53,6 @@ N 	 14.000    N.pbe-n-kjpaw_psl.1.0.0.UPF
 
 ATOMIC_POSITIONS (crystal)
 C  0.333333333  0.666666666  0.500000000
-N  0.666666666  0.333333333  0.500000000
+N  0.000000000  0.000000000  0.500000000
 K_POINTS automatic 
 4 4 1   0 0 0
