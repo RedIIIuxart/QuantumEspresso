@@ -1,0 +1,4831 @@
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+
+     Program PWSCF v.6.5 starts on  4Jun2020 at 21:25:48 
+
+     This program is part of the open-source Quantum ESPRESSO suite
+     for quantum simulation of materials; please cite
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 21 395502 (2009);
+         "P. Giannozzi et al., J. Phys.:Condens. Matter 29 465901 (2017);
+          URL http://www.quantum-espresso.org", 
+     in publications or presentations arising from this work. More details at
+     http://www.quantum-espresso.org/quote
+
+     Serial version
+     Reading input from scf.inp
+
+     Current dimensions of program PWSCF are:
+     Max number of different atomic species (ntypx) = 10
+     Max number of k-points (npk) =  40000
+     Max angular momentum in pseudopotentials (lmaxx) =  3
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine readpp (1):
+     file ./B.pbe-n-kjpaw_psl.0.1.UPF not readable
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine readpp (1):
+     file ./B.pbe-n-kjpaw_psl.0.1.UPF not readable
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine readpp (1):
+     file ./B.pbe-n-kjpaw_psl.0.1.UPF not readable
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine readpp (1):
+     file ./B.pbe-n-kjpaw_psl.0.1.UPF not readable
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file C.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file N.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+     Error in routine readpp (1):
+     file ./N.pbe-n-kjpaw_psl.0.1.UPF not readable
+ %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+     stopping ...
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file B.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+     Message from routine read_upf::
+     Pseudo file N.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+               file C.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+               file B.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+               file N.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+
+     --------------------------------------------
+     Parameters for DFT-D3 Dispersion Correction:
+     --------------------------------------------
+       Reference C6 values for interpolation: 
+
+         atom   Coordination number   C6
+         B          0.000           214.36
+         B          0.971           150.74
+         B          1.944           106.23
+         B          2.913            62.89
+         B          4.586            56.06
+         C          0.000            98.23
+         C          0.987            86.49
+         C          1.998            58.72
+         C          2.999            51.56
+         C          3.984            36.41
+         N          0.000            50.54
+         N          0.994            44.25
+         N          2.014            39.35
+         N          2.990            31.16
+
+       Values used:
+
+         atom   Coordination number  R0_AB[au]  C6      C8
+         B          3.384            3.039     62.86   2504.59
+         N          3.159            2.478     31.21    688.49
+         C          3.290            2.750     48.76   1410.10
+         C          3.290            2.750     48.75   1410.03
+
+         Molecular C6 ( Ry / a.u.^6 ) =       751.74
+
+
+     G-vector sticks info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Sum         313     313    109                13305    13305    2771
+
+
+     Title: 
+     2 atoms graphene fragment. SCF                                             
+
+
+     bravais-lattice index     =            0
+     lattice parameter (alat)  =       4.6638  a.u.
+     unit-cell volume          =     262.2522 (a.u.)^3
+     number of atoms/cell      =            4
+     number of atomic types    =            3
+     number of electrons       =        16.00
+     number of Kohn-Sham states=           12
+     kinetic-energy cutoff     =      52.0000  Ry
+     charge density cutoff     =     208.0000  Ry
+     convergence threshold     =      1.0E-06
+     mixing beta               =       0.7000
+     number of iterations used =            8  plain     mixing
+     Exchange-correlation= SLA PW PBX PBC
+                           (   1   4   3   4   0   0   0)
+
+     celldm(1)=   4.663844  celldm(2)=   0.000000  celldm(3)=   0.000000
+     celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
+
+     crystal axes: (cart. coord. in units of alat)
+               a(1) = (   1.006548  -0.000042   0.007896 )  
+               a(2) = (  -0.503263   0.871741  -0.001251 )  
+               a(3) = (   0.012770   0.005828   2.946409 )  
+
+     reciprocal axes: (cart. coord. in units 2 pi/alat)
+               b(1) = (  0.993561  0.573583 -0.005441 )  
+               b(2) = (  0.000065  1.147165 -0.002270 )  
+               b(3) = ( -0.002663 -0.001050  0.339410 )  
+
+
+     PseudoPot. # 1 for C  read from file:
+     ./C.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: 430fe95172b1e11ef3f8ed03bac87931
+     Pseudo is Projector augmented-wave + core cor, Zval =  4.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: BESSEL
+     Using radial grid of 1073 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     PseudoPot. # 2 for B  read from file:
+     ./B.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: b4345a612e0782cca08559f453f3313f
+     Pseudo is Projector augmented-wave + core cor, Zval =  3.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: BESSEL
+     Using radial grid of 1059 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     PseudoPot. # 3 for N  read from file:
+     ./N.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: f73187c8b701007e77325f868c9291d7
+     Pseudo is Projector augmented-wave + core cor, Zval =  5.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: PSQ
+     Using radial grid of 1085 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     atomic species   valence    mass     pseudopotential
+        C              4.00    12.01100     C ( 1.00)
+        B              3.00    10.81700     B ( 1.00)
+        N              5.00    14.00700     N ( 1.00)
+
+     No symmetry found
+
+
+                                    s                        frac. trans.
+
+      isym =  1     identity                                     
+
+ cryst.   s( 1) = (     1          0          0      )
+                  (     0          1          0      )
+                  (     0          0          1      )
+
+ cart.    s( 1) = (  1.0000000  0.0000000  0.0000000 )
+                  ( -0.0000000  1.0000000 -0.0000000 )
+                  (  0.0000000  0.0000000  1.0000000 )
+
+
+   Cartesian axes
+
+     site n.     atom                  positions (alat units)
+         1           B   tau(   1) = (   0.0100902   0.5870242   1.1136888  )
+         2           N   tau(   2) = (   0.5133567   0.2964225   1.1168296  )
+         3           C   tau(   3) = (   0.0135432   0.0078811   2.5990557  )
+         4           C   tau(   4) = (   0.0135538   0.5890331   2.6009862  )
+
+   Crystallographic axes
+
+     site n.     atom                  positions (cryst. coord.)
+         1           B   tau(   1) = (  0.3406726  0.6708866  0.3773537  )
+         2           N   tau(   2) = (  0.6739973  0.3375444  0.3773849  )
+         3           C   tau(   3) = (  0.0038353  0.0031432  0.8821007  )
+         4           C   tau(   4) = (  0.3371740  0.6698159  0.8821457  )
+
+     number of k points=    10  Methfessel-Paxton smearing, width (Ry)=  0.0200
+                       cart. coord. in units 2pi/alat
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    2) = (   0.0000163   0.2867912  -0.0005674), wk =   0.2500000
+        k(    3) = (  -0.0000327  -0.5735824   0.0011348), wk =   0.1250000
+        k(    4) = (   0.2483902   0.1433956  -0.0013602), wk =   0.2500000
+        k(    5) = (   0.2484065   0.4301868  -0.0019276), wk =   0.2500000
+        k(    6) = (   0.2483575  -0.4301868  -0.0002255), wk =   0.2500000
+        k(    7) = (   0.2483739  -0.1433956  -0.0007928), wk =   0.2500000
+        k(    8) = (  -0.4967804  -0.2867913   0.0027204), wk =   0.1250000
+        k(    9) = (  -0.4967641  -0.0000001   0.0021531), wk =   0.2500000
+        k(   10) = (  -0.4968131  -0.8603737   0.0038552), wk =   0.1250000
+
+                       cryst. coord.
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    2) = (   0.0000000   0.2500000  -0.0000000), wk =   0.2500000
+        k(    3) = (   0.0000000  -0.5000000   0.0000000), wk =   0.1250000
+        k(    4) = (   0.2500000  -0.0000000   0.0000000), wk =   0.2500000
+        k(    5) = (   0.2500000   0.2500000   0.0000000), wk =   0.2500000
+        k(    6) = (   0.2500000  -0.5000000   0.0000000), wk =   0.2500000
+        k(    7) = (   0.2500000  -0.2500000   0.0000000), wk =   0.2500000
+        k(    8) = (  -0.5000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    9) = (  -0.5000000   0.2500000   0.0000000), wk =   0.2500000
+        k(   10) = (  -0.5000000  -0.5000000   0.0000000), wk =   0.1250000
+
+     Dense  grid:    13305 G-vectors     FFT dimensions: (  24,  24,  64)
+
+     Dynamical RAM for                 wfc:       0.30 MB
+
+     Dynamical RAM for     wfc (w. buffer):       3.35 MB
+
+     Dynamical RAM for           str. fact:       0.61 MB
+
+     Dynamical RAM for           local pot:       0.00 MB
+
+     Dynamical RAM for          nlocal pot:       0.81 MB
+
+     Dynamical RAM for                qrad:       0.74 MB
+
+     Dynamical RAM for          rho,v,vnew:       1.45 MB
+
+     Dynamical RAM for               rhoin:       0.48 MB
+
+     Dynamical RAM for            rho*nmix:       3.25 MB
+
+     Dynamical RAM for           G-vectors:       0.86 MB
+
+     Dynamical RAM for          h,s,v(r/c):       0.11 MB
+
+     Dynamical RAM for          <psi|beta>:       0.01 MB
+
+     Dynamical RAM for                 psi:       1.22 MB
+
+     Dynamical RAM for                hpsi:       1.22 MB
+
+     Dynamical RAM for                spsi:       1.22 MB
+
+     Dynamical RAM for      wfcinit/wfcrot:       0.82 MB
+
+     Dynamical RAM for           addusdens:       9.14 MB
+
+     Dynamical RAM for          addusforce:      10.86 MB
+
+     Dynamical RAM for         addusstress:      10.15 MB
+
+     Estimated static dynamical RAM per process >      13.77 MB
+
+     Estimated max dynamical RAM per process >      24.63 MB
+     Message from routine read_upf::
+     Pseudo file N.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+               file C.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+               file B.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+               file N.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+
+     --------------------------------------------
+     Parameters for DFT-D3 Dispersion Correction:
+     --------------------------------------------
+       Reference C6 values for interpolation: 
+
+         atom   Coordination number   C6
+         B          0.000           214.36
+         B          0.971           150.74
+         B          1.944           106.23
+         B          2.913            62.89
+         B          4.586            56.06
+         C          0.000            98.23
+         C          0.987            86.49
+         C          1.998            58.72
+         C          2.999            51.56
+         C          3.984            36.41
+         N          0.000            50.54
+         N          0.994            44.25
+         N          2.014            39.35
+         N          2.990            31.16
+
+       Values used:
+
+         atom   Coordination number  R0_AB[au]  C6      C8
+         B          3.384            3.039     62.86   2504.59
+         N          3.159            2.478     31.21    688.49
+         C          3.290            2.750     48.76   1410.10
+         C          3.290            2.750     48.75   1410.03
+
+         Molecular C6 ( Ry / a.u.^6 ) =       751.74
+
+     Message from routine read_upf::
+     Pseudo file N.pbe-n-kjpaw_psl.0.1.UPF has been fixed on the fly.
+To avoid this message in the future, permanently fix 
+ your pseudo files following these instructions: 
+https://gitlab.com/QEF/q-e/blob/master/upftools/how_to_fix_upf.md
+
+     G-vector sticks info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Sum         313     313    109                13305    13305    2771
+
+
+     Title: 
+     2 atoms graphene fragment. SCF                                             
+
+
+     bravais-lattice index     =            0
+     lattice parameter (alat)  =       4.6638  a.u.
+     unit-cell volume          =     262.2522 (a.u.)^3
+     number of atoms/cell      =            4
+     number of atomic types    =            3
+     number of electrons       =        16.00
+     number of Kohn-Sham states=           12
+     kinetic-energy cutoff     =      52.0000  Ry
+     charge density cutoff     =     208.0000  Ry
+     convergence threshold     =      1.0E-06
+     mixing beta               =       0.7000
+     number of iterations used =            8  plain     mixing
+     Exchange-correlation= SLA PW PBX PBC
+                           (   1   4   3   4   0   0   0)
+
+     celldm(1)=   4.663844  celldm(2)=   0.000000  celldm(3)=   0.000000
+     celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
+
+     crystal axes: (cart. coord. in units of alat)
+               a(1) = (   1.006548  -0.000042   0.007896 )  
+               a(2) = (  -0.503263   0.871741  -0.001251 )  
+               a(3) = (   0.012770   0.005828   2.946409 )  
+
+     reciprocal axes: (cart. coord. in units 2 pi/alat)
+               b(1) = (  0.993561  0.573583 -0.005441 )  
+               b(2) = (  0.000065  1.147165 -0.002270 )  
+               b(3) = ( -0.002663 -0.001050  0.339410 )  
+
+
+     PseudoPot. # 1 for C  read from file:
+     ./C.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: 430fe95172b1e11ef3f8ed03bac87931
+     Pseudo is Projector augmented-wave + core cor, Zval =  4.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: BESSEL
+     Using radial grid of 1073 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     PseudoPot. # 2 for B  read from file:
+     ./B.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: b4345a612e0782cca08559f453f3313f
+     Pseudo is Projector augmented-wave + core cor, Zval =  3.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: BESSEL
+     Using radial grid of 1059 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     PseudoPot. # 3 for N  read from file:
+     ./N.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: f73187c8b701007e77325f868c9291d7
+     Pseudo is Projector augmented-wave + core cor, Zval =  5.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: PSQ
+     Using radial grid of 1085 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     atomic species   valence    mass     pseudopotential
+        C              4.00    12.01100     C ( 1.00)
+        B              3.00    10.81700     B ( 1.00)
+        N              5.00    14.00700     N ( 1.00)
+
+     No symmetry found
+
+
+                                    s                        frac. trans.
+
+      isym =  1     identity                                     
+
+ cryst.   s( 1) = (     1          0          0      )
+                  (     0          1          0      )
+                  (     0          0          1      )
+
+ cart.    s( 1) = (  1.0000000  0.0000000  0.0000000 )
+                  ( -0.0000000  1.0000000 -0.0000000 )
+                  (  0.0000000  0.0000000  1.0000000 )
+
+
+   Cartesian axes
+
+     site n.     atom                  positions (alat units)
+         1           B   tau(   1) = (   0.0100902   0.5870242   1.1136888  )
+         2           N   tau(   2) = (   0.5133567   0.2964225   1.1168296  )
+         3           C   tau(   3) = (   0.0135432   0.0078811   2.5990557  )
+         4           C   tau(   4) = (   0.0135538   0.5890331   2.6009862  )
+
+   Crystallographic axes
+
+     site n.     atom                  positions (cryst. coord.)
+         1           B   tau(   1) = (  0.3406726  0.6708866  0.3773537  )
+         2           N   tau(   2) = (  0.6739973  0.3375444  0.3773849  )
+         3           C   tau(   3) = (  0.0038353  0.0031432  0.8821007  )
+         4           C   tau(   4) = (  0.3371740  0.6698159  0.8821457  )
+
+     number of k points=    10  Methfessel-Paxton smearing, width (Ry)=  0.0200
+                       cart. coord. in units 2pi/alat
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    2) = (   0.0000163   0.2867912  -0.0005674), wk =   0.2500000
+        k(    3) = (  -0.0000327  -0.5735824   0.0011348), wk =   0.1250000
+        k(    4) = (   0.2483902   0.1433956  -0.0013602), wk =   0.2500000
+        k(    5) = (   0.2484065   0.4301868  -0.0019276), wk =   0.2500000
+        k(    6) = (   0.2483575  -0.4301868  -0.0002255), wk =   0.2500000
+        k(    7) = (   0.2483739  -0.1433956  -0.0007928), wk =   0.2500000
+        k(    8) = (  -0.4967804  -0.2867913   0.0027204), wk =   0.1250000
+        k(    9) = (  -0.4967641  -0.0000001   0.0021531), wk =   0.2500000
+        k(   10) = (  -0.4968131  -0.8603737   0.0038552), wk =   0.1250000
+
+                       cryst. coord.
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    2) = (   0.0000000   0.2500000  -0.0000000), wk =   0.2500000
+        k(    3) = (   0.0000000  -0.5000000   0.0000000), wk =   0.1250000
+        k(    4) = (   0.2500000  -0.0000000   0.0000000), wk =   0.2500000
+        k(    5) = (   0.2500000   0.2500000   0.0000000), wk =   0.2500000
+        k(    6) = (   0.2500000  -0.5000000   0.0000000), wk =   0.2500000
+        k(    7) = (   0.2500000  -0.2500000   0.0000000), wk =   0.2500000
+        k(    8) = (  -0.5000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    9) = (  -0.5000000   0.2500000   0.0000000), wk =   0.2500000
+        k(   10) = (  -0.5000000  -0.5000000   0.0000000), wk =   0.1250000
+
+     Dense  grid:    13305 G-vectors     FFT dimensions: (  24,  24,  64)
+
+     Dynamical RAM for                 wfc:       0.30 MB
+
+     Dynamical RAM for     wfc (w. buffer):       3.35 MB
+
+     Dynamical RAM for           str. fact:       0.61 MB
+
+     Dynamical RAM for           local pot:       0.00 MB
+
+     Dynamical RAM for          nlocal pot:       0.81 MB
+
+     Dynamical RAM for                qrad:       0.74 MB
+
+     Dynamical RAM for          rho,v,vnew:       1.45 MB
+
+     Dynamical RAM for               rhoin:       0.48 MB
+
+     Dynamical RAM for            rho*nmix:       3.25 MB
+
+     Dynamical RAM for           G-vectors:       0.86 MB
+
+     Dynamical RAM for          h,s,v(r/c):       0.11 MB
+
+     Dynamical RAM for          <psi|beta>:       0.01 MB
+
+     Dynamical RAM for                 psi:       1.22 MB
+
+     Dynamical RAM for                hpsi:       1.22 MB
+
+     Dynamical RAM for                spsi:       1.22 MB
+
+     Dynamical RAM for      wfcinit/wfcrot:       0.82 MB
+
+     Dynamical RAM for           addusdens:       9.14 MB
+
+     Dynamical RAM for          addusforce:      10.86 MB
+
+     Dynamical RAM for         addusstress:      10.15 MB
+
+     Estimated static dynamical RAM per process >      13.77 MB
+
+     Estimated max dynamical RAM per process >      24.63 MB
+               file C.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+               file B.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+               file N.pbe-n-kjpaw_psl.0.1.UPF: wavefunction(s)  2P renormalized
+
+     --------------------------------------------
+     Parameters for DFT-D3 Dispersion Correction:
+     --------------------------------------------
+       Reference C6 values for interpolation: 
+
+         atom   Coordination number   C6
+         B          0.000           214.36
+         B          0.971           150.74
+         B          1.944           106.23
+         B          2.913            62.89
+         B          4.586            56.06
+         C          0.000            98.23
+         C          0.987            86.49
+         C          1.998            58.72
+         C          2.999            51.56
+         C          3.984            36.41
+         N          0.000            50.54
+         N          0.994            44.25
+         N          2.014            39.35
+         N          2.990            31.16
+
+       Values used:
+
+         atom   Coordination number  R0_AB[au]  C6      C8
+         B          3.384            3.039     62.86   2504.59
+         N          3.159            2.478     31.21    688.49
+         C          3.290            2.750     48.76   1410.10
+         C          3.290            2.750     48.75   1410.03
+
+         Molecular C6 ( Ry / a.u.^6 ) =       751.74
+
+
+     G-vector sticks info
+     --------------------
+     sticks:   dense  smooth     PW     G-vecs:    dense   smooth      PW
+     Sum         313     313    109                13305    13305    2771
+
+
+     Title: 
+     2 atoms graphene fragment. SCF                                             
+
+
+     bravais-lattice index     =            0
+     lattice parameter (alat)  =       4.6638  a.u.
+     unit-cell volume          =     262.2522 (a.u.)^3
+     number of atoms/cell      =            4
+     number of atomic types    =            3
+     number of electrons       =        16.00
+     number of Kohn-Sham states=           12
+     kinetic-energy cutoff     =      52.0000  Ry
+     charge density cutoff     =     208.0000  Ry
+     convergence threshold     =      1.0E-06
+     mixing beta               =       0.7000
+     number of iterations used =            8  plain     mixing
+     Exchange-correlation= SLA PW PBX PBC
+                           (   1   4   3   4   0   0   0)
+
+     celldm(1)=   4.663844  celldm(2)=   0.000000  celldm(3)=   0.000000
+     celldm(4)=   0.000000  celldm(5)=   0.000000  celldm(6)=   0.000000
+
+     crystal axes: (cart. coord. in units of alat)
+               a(1) = (   1.006548  -0.000042   0.007896 )  
+               a(2) = (  -0.503263   0.871741  -0.001251 )  
+               a(3) = (   0.012770   0.005828   2.946409 )  
+
+     reciprocal axes: (cart. coord. in units 2 pi/alat)
+               b(1) = (  0.993561  0.573583 -0.005441 )  
+               b(2) = (  0.000065  1.147165 -0.002270 )  
+               b(3) = ( -0.002663 -0.001050  0.339410 )  
+
+
+     PseudoPot. # 1 for C  read from file:
+     ./C.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: 430fe95172b1e11ef3f8ed03bac87931
+     Pseudo is Projector augmented-wave + core cor, Zval =  4.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: BESSEL
+     Using radial grid of 1073 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     PseudoPot. # 2 for B  read from file:
+     ./B.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: b4345a612e0782cca08559f453f3313f
+     Pseudo is Projector augmented-wave + core cor, Zval =  3.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: BESSEL
+     Using radial grid of 1059 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     PseudoPot. # 3 for N  read from file:
+     ./N.pbe-n-kjpaw_psl.0.1.UPF
+     MD5 check sum: f73187c8b701007e77325f868c9291d7
+     Pseudo is Projector augmented-wave + core cor, Zval =  5.0
+     Generated using "atomic" code by A. Dal Corso v.5.0.99 svn rev. 10869
+     Shape of augmentation charge: PSQ
+     Using radial grid of 1085 points,  4 beta functions with: 
+                l(1) =   0
+                l(2) =   0
+                l(3) =   1
+                l(4) =   1
+     Q(r) pseudized with 0 coefficients 
+
+
+     atomic species   valence    mass     pseudopotential
+        C              4.00    12.01100     C ( 1.00)
+        B              3.00    10.81700     B ( 1.00)
+        N              5.00    14.00700     N ( 1.00)
+
+     No symmetry found
+
+
+                                    s                        frac. trans.
+
+      isym =  1     identity                                     
+
+ cryst.   s( 1) = (     1          0          0      )
+                  (     0          1          0      )
+                  (     0          0          1      )
+
+ cart.    s( 1) = (  1.0000000  0.0000000  0.0000000 )
+                  ( -0.0000000  1.0000000 -0.0000000 )
+                  (  0.0000000  0.0000000  1.0000000 )
+
+
+   Cartesian axes
+
+     site n.     atom                  positions (alat units)
+         1           B   tau(   1) = (   0.0100902   0.5870242   1.1136888  )
+         2           N   tau(   2) = (   0.5133567   0.2964225   1.1168296  )
+         3           C   tau(   3) = (   0.0135432   0.0078811   2.5990557  )
+         4           C   tau(   4) = (   0.0135538   0.5890331   2.6009862  )
+
+   Crystallographic axes
+
+     site n.     atom                  positions (cryst. coord.)
+         1           B   tau(   1) = (  0.3406726  0.6708866  0.3773537  )
+         2           N   tau(   2) = (  0.6739973  0.3375444  0.3773849  )
+         3           C   tau(   3) = (  0.0038353  0.0031432  0.8821007  )
+         4           C   tau(   4) = (  0.3371740  0.6698159  0.8821457  )
+
+     number of k points=    10  Methfessel-Paxton smearing, width (Ry)=  0.0200
+                       cart. coord. in units 2pi/alat
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    2) = (   0.0000163   0.2867912  -0.0005674), wk =   0.2500000
+        k(    3) = (  -0.0000327  -0.5735824   0.0011348), wk =   0.1250000
+        k(    4) = (   0.2483902   0.1433956  -0.0013602), wk =   0.2500000
+        k(    5) = (   0.2484065   0.4301868  -0.0019276), wk =   0.2500000
+        k(    6) = (   0.2483575  -0.4301868  -0.0002255), wk =   0.2500000
+        k(    7) = (   0.2483739  -0.1433956  -0.0007928), wk =   0.2500000
+        k(    8) = (  -0.4967804  -0.2867913   0.0027204), wk =   0.1250000
+        k(    9) = (  -0.4967641  -0.0000001   0.0021531), wk =   0.2500000
+        k(   10) = (  -0.4968131  -0.8603737   0.0038552), wk =   0.1250000
+
+                       cryst. coord.
+        k(    1) = (   0.0000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    2) = (   0.0000000   0.2500000  -0.0000000), wk =   0.2500000
+        k(    3) = (   0.0000000  -0.5000000   0.0000000), wk =   0.1250000
+        k(    4) = (   0.2500000  -0.0000000   0.0000000), wk =   0.2500000
+        k(    5) = (   0.2500000   0.2500000   0.0000000), wk =   0.2500000
+        k(    6) = (   0.2500000  -0.5000000   0.0000000), wk =   0.2500000
+        k(    7) = (   0.2500000  -0.2500000   0.0000000), wk =   0.2500000
+        k(    8) = (  -0.5000000   0.0000000   0.0000000), wk =   0.1250000
+        k(    9) = (  -0.5000000   0.2500000   0.0000000), wk =   0.2500000
+        k(   10) = (  -0.5000000  -0.5000000   0.0000000), wk =   0.1250000
+
+     Dense  grid:    13305 G-vectors     FFT dimensions: (  24,  24,  64)
+
+     Dynamical RAM for                 wfc:       0.30 MB
+
+     Dynamical RAM for     wfc (w. buffer):       3.35 MB
+
+     Dynamical RAM for           str. fact:       0.61 MB
+
+     Dynamical RAM for           local pot:       0.00 MB
+
+     Dynamical RAM for          nlocal pot:       0.81 MB
+
+     Dynamical RAM for                qrad:       0.74 MB
+
+     Dynamical RAM for          rho,v,vnew:       1.45 MB
+
+     Dynamical RAM for               rhoin:       0.48 MB
+
+     Dynamical RAM for            rho*nmix:       3.25 MB
+
+     Dynamical RAM for           G-vectors:       0.86 MB
+
+     Dynamical RAM for          h,s,v(r/c):       0.11 MB
+
+     Dynamical RAM for          <psi|beta>:       0.01 MB
+
+     Dynamical RAM for                 psi:       1.22 MB
+
+     Dynamical RAM for                hpsi:       1.22 MB
+
+     Dynamical RAM for                spsi:       1.22 MB
+
+     Dynamical RAM for      wfcinit/wfcrot:       0.82 MB
+
+     Dynamical RAM for           addusdens:       9.14 MB
+
+     Dynamical RAM for          addusforce:      10.86 MB
+
+     Dynamical RAM for         addusstress:      10.15 MB
+
+     Estimated static dynamical RAM per process >      13.77 MB
+
+     Estimated max dynamical RAM per process >      24.63 MB
+
+     Check: negative core charge=   -0.000046
+
+     Initial potential from superposition of free atoms
+
+     Check: negative core charge=   -0.000046
+
+     Initial potential from superposition of free atoms
+
+     Check: negative core charge=   -0.000046
+
+     Initial potential from superposition of free atoms
+
+     starting charge   15.99963, renormalised to   16.00000
+
+     starting charge   15.99963, renormalised to   16.00000
+
+     starting charge   15.99963, renormalised to   16.00000
+     Starting wfcs are   16 randomized atomic wfcs
+     Starting wfcs are   16 randomized atomic wfcs
+     Starting wfcs are   16 randomized atomic wfcs
+
+     total cpu time spent up to now is        2.1 secs
+
+     total cpu time spent up to now is        2.1 secs
+
+     total cpu time spent up to now is        2.1 secs
+
+     Self-consistent Calculation
+
+     iteration #  1     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     Self-consistent Calculation
+
+     iteration #  1     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     Self-consistent Calculation
+
+     iteration #  1     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.00E-02,  avg # of iterations =  3.7
+     ethr =  1.00E-02,  avg # of iterations =  3.7
+     ethr =  1.00E-02,  avg # of iterations =  3.7
+
+     total cpu time spent up to now is        4.3 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -16.9369 -15.5935  -3.5637  -2.4982  -1.2460  -1.2451   0.0723   0.1380
+     9.1839  11.6973  11.7046  12.5460
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -15.8558 -14.1936  -4.5734  -4.0911  -2.6892  -2.0617  -1.8853  -0.9496
+    10.9793  11.0095  11.2514  11.6942
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -14.1464 -10.6514  -9.5242  -7.9794  -3.7859  -2.8755   0.3586   2.1215
+     6.5951   7.7453  11.0738  11.9891
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -15.8542 -14.1944  -4.5720  -4.0913  -2.6904  -2.0615  -1.8869  -0.9498
+    10.9639  11.0168  11.2551  11.7040
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -14.2356 -11.5148  -7.0780  -6.8859  -5.4301  -5.2274   0.2101   1.8662
+     7.2432   8.4280  14.3021  15.9447
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -14.2355 -11.5155  -7.0789  -6.8865  -5.4278  -5.2273   0.2112   1.8691
+     7.2309   8.4179  14.2854  15.9361
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -15.8540 -14.1948  -4.5708  -4.0951  -2.6903  -2.0616  -1.8809  -0.9496
+    10.9656  11.0101  11.2513  11.6879
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -14.1483 -10.6508  -9.5237  -7.9778  -3.7843  -2.8745   0.3581   2.1236
+     6.5881   7.7450  11.0727  11.9885
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -14.2356 -11.5148  -7.0790  -6.8852  -5.4280  -5.2270   0.2101   1.8671
+     7.2604   8.4222  14.2855  15.9500
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -14.1479 -10.6520  -9.5260  -7.9808  -3.7827  -2.8659   0.3576   2.1235
+     6.5472   7.7429  11.0734  11.9855
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     3.7535 ev
+
+!    total energy              =     -76.60306207 Ry
+     Harris-Foulkes estimate   =     -76.98814314 Ry
+     estimated scf accuracy    <       0.58755820 Ry
+
+     total all-electron energy =      -311.669414 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -21.38126146 Ry
+     hartree contribution      =      18.55926852 Ry
+     xc contribution           =     -16.86394063 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       1.39653125 Ry
+     one-center paw contrib.   =     -26.94763433 Ry
+      -> PAW hartree energy AE =      41.40496225 Ry
+      -> PAW hartree energy PS =     -41.33724106 Ry
+      -> PAW xc energy AE      =     -42.70964090 Ry
+      -> PAW xc energy PS      =      15.69428537 Ry
+      -> total E_H with PAW    =      18.62698972 Ry
+      -> total E_XC with PAW   =     -43.87929615 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  2     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        4.4 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -16.9369 -15.5935  -3.5637  -2.4982  -1.2460  -1.2451   0.0723   0.1380
+     9.1839  11.6973  11.7046  12.5460
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -15.8558 -14.1936  -4.5734  -4.0911  -2.6892  -2.0617  -1.8853  -0.9496
+    10.9793  11.0095  11.2514  11.6942
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -14.1464 -10.6514  -9.5242  -7.9794  -3.7859  -2.8755   0.3586   2.1215
+     6.5951   7.7453  11.0738  11.9891
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -15.8542 -14.1944  -4.5720  -4.0913  -2.6904  -2.0615  -1.8869  -0.9498
+    10.9639  11.0168  11.2551  11.7040
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -14.2356 -11.5148  -7.0780  -6.8859  -5.4301  -5.2274   0.2101   1.8662
+     7.2432   8.4280  14.3021  15.9447
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -14.2355 -11.5155  -7.0789  -6.8865  -5.4278  -5.2273   0.2112   1.8691
+     7.2309   8.4179  14.2854  15.9361
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -15.8540 -14.1948  -4.5708  -4.0951  -2.6903  -2.0616  -1.8809  -0.9496
+    10.9656  11.0101  11.2513  11.6879
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -14.1483 -10.6508  -9.5237  -7.9778  -3.7843  -2.8745   0.3581   2.1236
+     6.5881   7.7450  11.0727  11.9885
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -14.2356 -11.5148  -7.0790  -6.8852  -5.4280  -5.2270   0.2101   1.8671
+     7.2604   8.4222  14.2855  15.9500
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -14.1479 -10.6520  -9.5260  -7.9808  -3.7827  -2.8659   0.3576   2.1235
+     6.5472   7.7429  11.0734  11.9855
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     3.7535 ev
+
+!    total energy              =     -76.60306207 Ry
+     Harris-Foulkes estimate   =     -76.98814314 Ry
+     estimated scf accuracy    <       0.58755820 Ry
+
+     total all-electron energy =      -311.669414 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -21.38126146 Ry
+     hartree contribution      =      18.55926852 Ry
+     xc contribution           =     -16.86394063 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       1.39653125 Ry
+     one-center paw contrib.   =     -26.94763433 Ry
+      -> PAW hartree energy AE =      41.40496225 Ry
+      -> PAW hartree energy PS =     -41.33724106 Ry
+      -> PAW xc energy AE      =     -42.70964090 Ry
+      -> PAW xc energy PS      =      15.69428537 Ry
+      -> total E_H with PAW    =      18.62698972 Ry
+      -> total E_XC with PAW   =     -43.87929615 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  2     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        4.4 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -16.9369 -15.5935  -3.5637  -2.4982  -1.2460  -1.2451   0.0723   0.1380
+     9.1839  11.6973  11.7046  12.5460
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -15.8558 -14.1936  -4.5734  -4.0911  -2.6892  -2.0617  -1.8853  -0.9496
+    10.9793  11.0095  11.2514  11.6942
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -14.1464 -10.6514  -9.5242  -7.9794  -3.7859  -2.8755   0.3586   2.1215
+     6.5951   7.7453  11.0738  11.9891
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -15.8542 -14.1944  -4.5720  -4.0913  -2.6904  -2.0615  -1.8869  -0.9498
+    10.9639  11.0168  11.2551  11.7040
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -14.2356 -11.5148  -7.0780  -6.8859  -5.4301  -5.2274   0.2101   1.8662
+     7.2432   8.4280  14.3021  15.9447
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -14.2355 -11.5155  -7.0789  -6.8865  -5.4278  -5.2273   0.2112   1.8691
+     7.2309   8.4179  14.2854  15.9361
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -15.8540 -14.1948  -4.5708  -4.0951  -2.6903  -2.0616  -1.8809  -0.9496
+    10.9656  11.0101  11.2513  11.6879
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -14.1483 -10.6508  -9.5237  -7.9778  -3.7843  -2.8745   0.3581   2.1236
+     6.5881   7.7450  11.0727  11.9885
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -14.2356 -11.5148  -7.0790  -6.8852  -5.4280  -5.2270   0.2101   1.8671
+     7.2604   8.4222  14.2855  15.9500
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -14.1479 -10.6520  -9.5260  -7.9808  -3.7827  -2.8659   0.3576   2.1235
+     6.5472   7.7429  11.0734  11.9855
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     3.7535 ev
+
+!    total energy              =     -76.60306207 Ry
+     Harris-Foulkes estimate   =     -76.98814314 Ry
+     estimated scf accuracy    <       0.58755820 Ry
+
+     total all-electron energy =      -311.669414 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -21.38126146 Ry
+     hartree contribution      =      18.55926852 Ry
+     xc contribution           =     -16.86394063 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       1.39653125 Ry
+     one-center paw contrib.   =     -26.94763433 Ry
+      -> PAW hartree energy AE =      41.40496225 Ry
+      -> PAW hartree energy PS =     -41.33724106 Ry
+      -> PAW xc energy AE      =     -42.70964090 Ry
+      -> PAW xc energy PS      =      15.69428537 Ry
+      -> total E_H with PAW    =      18.62698972 Ry
+      -> total E_XC with PAW   =     -43.87929615 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  2     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  3.67E-03,  avg # of iterations =  3.0
+     ethr =  3.67E-03,  avg # of iterations =  3.0
+     ethr =  3.67E-03,  avg # of iterations =  3.0
+
+     total cpu time spent up to now is        4.8 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7538 -12.3972  -2.1073  -0.0418   2.5913   2.6174   4.4436   4.4511
+     9.2932  13.8198  13.8239  14.5623
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3047 -11.1514  -1.7762  -0.3425   0.3299   0.6005   1.6056   2.6109
+    11.2269  12.7430  13.4967  14.1772
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+    -8.9431  -8.5960  -7.4808  -3.8823  -0.6260   1.3193   3.2842   4.5995
+     7.4032   9.3232  12.7596  14.6849
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0031  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3047 -11.1505  -1.7718  -0.3427   0.3288   0.5988   1.6056   2.6094
+    11.2217  12.7466  13.5026  14.1903
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+    -9.5281  -9.1029  -4.8789  -3.2204  -2.3981  -0.6656   2.8400   4.4735
+     8.3404  10.4908  14.8612  17.8652
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+    -9.5278  -9.1033  -4.8811  -3.2187  -2.3990  -0.6648   2.8315   4.4797
+     8.3739  10.5063  14.8647  17.8637
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3049 -11.1508  -1.7758  -0.3428   0.3308   0.6018   1.6055   2.6087
+    11.2361  12.7403  13.4948  14.1749
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+    -8.9435  -8.5955  -7.4786  -3.8816  -0.6261   1.3201   3.2819   4.5964
+     7.3931   9.3197  12.7578  14.6839
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+     0.0052  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+    -9.5279  -9.1039  -4.8799  -3.2187  -2.3980  -0.6655   2.8341   4.4707
+     8.3421  10.4887  14.8562  17.8698
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+    -8.9438  -8.5949  -7.4826  -3.8822  -0.6215   1.3230   3.2816   4.6004
+     7.4020   9.3214  12.7600  14.6832
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0021  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     7.1702 ev
+
+!    total energy              =     -76.70253639 Ry
+     Harris-Foulkes estimate   =     -76.82622222 Ry
+     estimated scf accuracy    <       0.22051684 Ry
+
+     total all-electron energy =      -311.768889 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -18.94341795 Ry
+     hartree contribution      =      17.81603624 Ry
+     xc contribution           =     -16.69867995 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =      -0.60344328 Ry
+     one-center paw contrib.   =     -26.90722367 Ry
+      -> PAW hartree energy AE =      43.29919394 Ry
+      -> PAW hartree energy PS =     -43.23454741 Ry
+      -> PAW xc energy AE      =     -43.23310772 Ry
+      -> PAW xc energy PS      =      16.26123752 Ry
+      -> total E_H with PAW    =      17.88068277 Ry
+      -> total E_XC with PAW   =     -43.67055015 Ry
+     smearing contrib. (-TS)   =       0.00021765 Ry
+
+     iteration #  3     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        4.9 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7538 -12.3972  -2.1073  -0.0418   2.5913   2.6174   4.4436   4.4511
+     9.2932  13.8198  13.8239  14.5623
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3047 -11.1514  -1.7762  -0.3425   0.3299   0.6005   1.6056   2.6109
+    11.2269  12.7430  13.4967  14.1772
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+    -8.9431  -8.5960  -7.4808  -3.8823  -0.6260   1.3193   3.2842   4.5995
+     7.4032   9.3232  12.7596  14.6849
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0031  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3047 -11.1505  -1.7718  -0.3427   0.3288   0.5988   1.6056   2.6094
+    11.2217  12.7466  13.5026  14.1903
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+    -9.5281  -9.1029  -4.8789  -3.2204  -2.3981  -0.6656   2.8400   4.4735
+     8.3404  10.4908  14.8612  17.8652
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+    -9.5278  -9.1033  -4.8811  -3.2187  -2.3990  -0.6648   2.8315   4.4797
+     8.3739  10.5063  14.8647  17.8637
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3049 -11.1508  -1.7758  -0.3428   0.3308   0.6018   1.6055   2.6087
+    11.2361  12.7403  13.4948  14.1749
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+    -8.9435  -8.5955  -7.4786  -3.8816  -0.6261   1.3201   3.2819   4.5964
+     7.3931   9.3197  12.7578  14.6839
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+     0.0052  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+    -9.5279  -9.1039  -4.8799  -3.2187  -2.3980  -0.6655   2.8341   4.4707
+     8.3421  10.4887  14.8562  17.8698
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+    -8.9438  -8.5949  -7.4826  -3.8822  -0.6215   1.3230   3.2816   4.6004
+     7.4020   9.3214  12.7600  14.6832
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0021  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     7.1702 ev
+
+!    total energy              =     -76.70253639 Ry
+     Harris-Foulkes estimate   =     -76.82622222 Ry
+     estimated scf accuracy    <       0.22051684 Ry
+
+     total all-electron energy =      -311.768889 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -18.94341795 Ry
+     hartree contribution      =      17.81603624 Ry
+     xc contribution           =     -16.69867995 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =      -0.60344328 Ry
+     one-center paw contrib.   =     -26.90722367 Ry
+      -> PAW hartree energy AE =      43.29919394 Ry
+      -> PAW hartree energy PS =     -43.23454741 Ry
+      -> PAW xc energy AE      =     -43.23310772 Ry
+      -> PAW xc energy PS      =      16.26123752 Ry
+      -> total E_H with PAW    =      17.88068277 Ry
+      -> total E_XC with PAW   =     -43.67055015 Ry
+     smearing contrib. (-TS)   =       0.00021765 Ry
+
+     iteration #  3     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        4.9 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7538 -12.3972  -2.1073  -0.0418   2.5913   2.6174   4.4436   4.4511
+     9.2932  13.8198  13.8239  14.5623
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3047 -11.1514  -1.7762  -0.3425   0.3299   0.6005   1.6056   2.6109
+    11.2269  12.7430  13.4967  14.1772
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+    -8.9431  -8.5960  -7.4808  -3.8823  -0.6260   1.3193   3.2842   4.5995
+     7.4032   9.3232  12.7596  14.6849
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0031  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3047 -11.1505  -1.7718  -0.3427   0.3288   0.5988   1.6056   2.6094
+    11.2217  12.7466  13.5026  14.1903
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+    -9.5281  -9.1029  -4.8789  -3.2204  -2.3981  -0.6656   2.8400   4.4735
+     8.3404  10.4908  14.8612  17.8652
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+    -9.5278  -9.1033  -4.8811  -3.2187  -2.3990  -0.6648   2.8315   4.4797
+     8.3739  10.5063  14.8647  17.8637
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3049 -11.1508  -1.7758  -0.3428   0.3308   0.6018   1.6055   2.6087
+    11.2361  12.7403  13.4948  14.1749
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+    -8.9435  -8.5955  -7.4786  -3.8816  -0.6261   1.3201   3.2819   4.5964
+     7.3931   9.3197  12.7578  14.6839
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+     0.0052  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+    -9.5279  -9.1039  -4.8799  -3.2187  -2.3980  -0.6655   2.8341   4.4707
+     8.3421  10.4887  14.8562  17.8698
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+    -8.9438  -8.5949  -7.4826  -3.8822  -0.6215   1.3230   3.2816   4.6004
+     7.4020   9.3214  12.7600  14.6832
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0021  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     7.1702 ev
+
+!    total energy              =     -76.70253639 Ry
+     Harris-Foulkes estimate   =     -76.82622222 Ry
+     estimated scf accuracy    <       0.22051684 Ry
+
+     total all-electron energy =      -311.768889 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -18.94341795 Ry
+     hartree contribution      =      17.81603624 Ry
+     xc contribution           =     -16.69867995 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =      -0.60344328 Ry
+     one-center paw contrib.   =     -26.90722367 Ry
+      -> PAW hartree energy AE =      43.29919394 Ry
+      -> PAW hartree energy PS =     -43.23454741 Ry
+      -> PAW xc energy AE      =     -43.23310772 Ry
+      -> PAW xc energy PS      =      16.26123752 Ry
+      -> total E_H with PAW    =      17.88068277 Ry
+      -> total E_XC with PAW   =     -43.67055015 Ry
+     smearing contrib. (-TS)   =       0.00021765 Ry
+
+     iteration #  3     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.38E-03,  avg # of iterations =  3.0
+     ethr =  1.38E-03,  avg # of iterations =  3.0
+     ethr =  1.38E-03,  avg # of iterations =  3.0
+
+     total cpu time spent up to now is        5.4 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -14.1209 -13.1017  -2.0712  -0.7493   2.3199   2.3217   3.2586   3.2622
+     9.1764  13.7845  14.4574  14.4587
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.9543 -11.6517  -1.4328  -1.0997  -0.4062   0.6966   0.8258   1.3035
+    11.0608  12.7813  13.3330  14.1093
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -11.0067  -7.9394  -6.8268  -5.2349  -0.4952  -0.0587   2.7530   3.8402
+     7.8682   8.8878  13.3578  13.8368
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.9541 -11.6517  -1.4329  -1.0878  -0.4057   0.6952   0.8262   1.2935
+    11.0584  12.7844  13.3332  14.1127
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -11.1268  -8.8684  -4.2077  -3.9667  -2.5459  -2.2087   2.4241   3.6084
+     8.8725   9.8348  14.6307  18.3025
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -11.1257  -8.8679  -4.2080  -3.9636  -2.5501  -2.2098   2.4235   3.6087
+     8.8859   9.8312  14.6315  18.2529
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.9547 -11.6519  -1.4331  -1.0922  -0.4006   0.6975   0.8299   1.3039
+    11.0631  12.7984  13.3266  14.1076
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -11.0066  -7.9398  -6.8248  -5.2330  -0.4955  -0.0594   2.7495   3.8342
+     7.8566   8.8864  13.3555  13.8386
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -11.1264  -8.8679  -4.2066  -3.9653  -2.5451  -2.2073   2.4238   3.6075
+     8.8744   9.8332  14.6328  18.3335
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -11.0067  -7.9412  -6.8284  -5.2367  -0.4950  -0.0587   2.7469   3.8402
+     7.8637   8.8858  13.3565  13.8359
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     6.2992 ev
+
+!    total energy              =     -76.77025905 Ry
+     Harris-Foulkes estimate   =     -76.77298686 Ry
+     estimated scf accuracy    <       0.00770060 Ry
+
+     total all-electron energy =      -311.836611 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.89892907 Ry
+     hartree contribution      =      17.97580912 Ry
+     xc contribution           =     -16.73962569 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.14118547 Ry
+     one-center paw contrib.   =     -26.88267344 Ry
+      -> PAW hartree energy AE =      46.03117092 Ry
+      -> PAW hartree energy PS =     -45.96692898 Ry
+      -> PAW xc energy AE      =     -43.80698791 Ry
+      -> PAW xc energy PS      =      16.86007254 Ry
+      -> total E_H with PAW    =      18.04005105 Ry
+      -> total E_XC with PAW   =     -43.68654107 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  4     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        5.4 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -14.1209 -13.1017  -2.0712  -0.7493   2.3199   2.3217   3.2586   3.2622
+     9.1764  13.7845  14.4574  14.4587
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.9543 -11.6517  -1.4328  -1.0997  -0.4062   0.6966   0.8258   1.3035
+    11.0608  12.7813  13.3330  14.1093
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -11.0067  -7.9394  -6.8268  -5.2349  -0.4952  -0.0587   2.7530   3.8402
+     7.8682   8.8878  13.3578  13.8368
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.9541 -11.6517  -1.4329  -1.0878  -0.4057   0.6952   0.8262   1.2935
+    11.0584  12.7844  13.3332  14.1127
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -11.1268  -8.8684  -4.2077  -3.9667  -2.5459  -2.2087   2.4241   3.6084
+     8.8725   9.8348  14.6307  18.3025
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -11.1257  -8.8679  -4.2080  -3.9636  -2.5501  -2.2098   2.4235   3.6087
+     8.8859   9.8312  14.6315  18.2529
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.9547 -11.6519  -1.4331  -1.0922  -0.4006   0.6975   0.8299   1.3039
+    11.0631  12.7984  13.3266  14.1076
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -11.0066  -7.9398  -6.8248  -5.2330  -0.4955  -0.0594   2.7495   3.8342
+     7.8566   8.8864  13.3555  13.8386
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -11.1264  -8.8679  -4.2066  -3.9653  -2.5451  -2.2073   2.4238   3.6075
+     8.8744   9.8332  14.6328  18.3335
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -11.0067  -7.9412  -6.8284  -5.2367  -0.4950  -0.0587   2.7469   3.8402
+     7.8637   8.8858  13.3565  13.8359
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     6.2992 ev
+
+!    total energy              =     -76.77025905 Ry
+     Harris-Foulkes estimate   =     -76.77298686 Ry
+     estimated scf accuracy    <       0.00770060 Ry
+
+     total all-electron energy =      -311.836611 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.89892907 Ry
+     hartree contribution      =      17.97580912 Ry
+     xc contribution           =     -16.73962569 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.14118547 Ry
+     one-center paw contrib.   =     -26.88267344 Ry
+      -> PAW hartree energy AE =      46.03117092 Ry
+      -> PAW hartree energy PS =     -45.96692898 Ry
+      -> PAW xc energy AE      =     -43.80698791 Ry
+      -> PAW xc energy PS      =      16.86007254 Ry
+      -> total E_H with PAW    =      18.04005105 Ry
+      -> total E_XC with PAW   =     -43.68654107 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  4     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        5.4 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -14.1209 -13.1017  -2.0712  -0.7493   2.3199   2.3217   3.2586   3.2622
+     9.1764  13.7845  14.4574  14.4587
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.9543 -11.6517  -1.4328  -1.0997  -0.4062   0.6966   0.8258   1.3035
+    11.0608  12.7813  13.3330  14.1093
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -11.0067  -7.9394  -6.8268  -5.2349  -0.4952  -0.0587   2.7530   3.8402
+     7.8682   8.8878  13.3578  13.8368
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.9541 -11.6517  -1.4329  -1.0878  -0.4057   0.6952   0.8262   1.2935
+    11.0584  12.7844  13.3332  14.1127
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -11.1268  -8.8684  -4.2077  -3.9667  -2.5459  -2.2087   2.4241   3.6084
+     8.8725   9.8348  14.6307  18.3025
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -11.1257  -8.8679  -4.2080  -3.9636  -2.5501  -2.2098   2.4235   3.6087
+     8.8859   9.8312  14.6315  18.2529
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.9547 -11.6519  -1.4331  -1.0922  -0.4006   0.6975   0.8299   1.3039
+    11.0631  12.7984  13.3266  14.1076
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -11.0066  -7.9398  -6.8248  -5.2330  -0.4955  -0.0594   2.7495   3.8342
+     7.8566   8.8864  13.3555  13.8386
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -11.1264  -8.8679  -4.2066  -3.9653  -2.5451  -2.2073   2.4238   3.6075
+     8.8744   9.8332  14.6328  18.3335
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -11.0067  -7.9412  -6.8284  -5.2367  -0.4950  -0.0587   2.7469   3.8402
+     7.8637   8.8858  13.3565  13.8359
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     6.2992 ev
+
+!    total energy              =     -76.77025905 Ry
+     Harris-Foulkes estimate   =     -76.77298686 Ry
+     estimated scf accuracy    <       0.00770060 Ry
+
+     total all-electron energy =      -311.836611 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.89892907 Ry
+     hartree contribution      =      17.97580912 Ry
+     xc contribution           =     -16.73962569 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.14118547 Ry
+     one-center paw contrib.   =     -26.88267344 Ry
+      -> PAW hartree energy AE =      46.03117092 Ry
+      -> PAW hartree energy PS =     -45.96692898 Ry
+      -> PAW xc energy AE      =     -43.80698791 Ry
+      -> PAW xc energy PS      =      16.86007254 Ry
+      -> total E_H with PAW    =      18.04005105 Ry
+      -> total E_XC with PAW   =     -43.68654107 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  4     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     c_bands:  1 eigenvalues not converged
+     c_bands:  1 eigenvalues not converged
+     c_bands:  1 eigenvalues not converged
+     c_bands:  1 eigenvalues not converged
+     c_bands:  1 eigenvalues not converged
+     c_bands:  1 eigenvalues not converged
+     ethr =  4.81E-05,  avg # of iterations =  7.8
+     ethr =  4.81E-05,  avg # of iterations =  7.8
+     ethr =  4.81E-05,  avg # of iterations =  7.8
+
+     total cpu time spent up to now is        6.1 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.5840 -13.3804  -2.0460  -0.6315   2.9432   2.9436   2.9554   2.9555
+     9.2280  13.9258  14.1280  14.1294
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3870 -11.9548  -1.4263  -0.8402  -0.3331   0.9276   0.9678   1.3094
+    11.0968  12.9569  13.2300  13.7793
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.4017  -8.2568  -7.1547  -4.6982  -0.3779   0.1089   3.2308   3.5411
+     7.5812   9.2373  13.0614  14.2193
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3869 -11.9548  -1.4261  -0.8404  -0.3328   0.9271   0.9674   1.3094
+    11.0972  12.9537  13.2330  13.7796
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.5273  -9.1782  -4.5234  -3.4035  -2.8840  -1.6377   2.7249   3.5319
+     8.6032  10.2048  14.6777  17.1574
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.5275  -9.1783  -4.5231  -3.4028  -2.8842  -1.6381   2.7241   3.5327
+     8.6050  10.2026  14.6763  17.1238
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3870 -11.9548  -1.4260  -0.8402  -0.3331   0.9275   0.9675   1.3094
+    11.0969  12.9574  13.2292  13.7789
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.4014  -8.2571  -7.1542  -4.6988  -0.3782   0.1090   3.2347   3.5369
+     7.5813   9.2373  13.0617  14.2206
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.5273  -9.1783  -4.5228  -3.4034  -2.8845  -1.6377   2.7250   3.5318
+     8.6037  10.2041  14.6785  17.1308
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.4018  -8.2575  -7.1538  -4.6981  -0.3781   0.1090   3.2298   3.5422
+     7.5812   9.2368  13.0613  14.2200
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7655 ev
+
+!    total energy              =     -76.77706045 Ry
+     Harris-Foulkes estimate   =     -76.77827530 Ry
+     estimated scf accuracy    <       0.00203686 Ry
+
+     total all-electron energy =      -311.843413 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.68208954 Ry
+     hartree contribution      =      17.83474709 Ry
+     xc contribution           =     -16.70422134 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.01748300 Ry
+     one-center paw contrib.   =     -26.87695423 Ry
+      -> PAW hartree energy AE =      46.13424326 Ry
+      -> PAW hartree energy PS =     -46.07038089 Ry
+      -> PAW xc energy AE      =     -43.80433366 Ry
+      -> PAW xc energy PS      =      16.86351706 Ry
+      -> total E_H with PAW    =      17.89860946 Ry
+      -> total E_XC with PAW   =     -43.64503794 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  5     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        6.1 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.5840 -13.3804  -2.0460  -0.6315   2.9432   2.9436   2.9554   2.9555
+     9.2280  13.9258  14.1280  14.1294
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3870 -11.9548  -1.4263  -0.8402  -0.3331   0.9276   0.9678   1.3094
+    11.0968  12.9569  13.2300  13.7793
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.4017  -8.2568  -7.1547  -4.6982  -0.3779   0.1089   3.2308   3.5411
+     7.5812   9.2373  13.0614  14.2193
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3869 -11.9548  -1.4261  -0.8404  -0.3328   0.9271   0.9674   1.3094
+    11.0972  12.9537  13.2330  13.7796
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.5273  -9.1782  -4.5234  -3.4035  -2.8840  -1.6377   2.7249   3.5319
+     8.6032  10.2048  14.6777  17.1574
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.5275  -9.1783  -4.5231  -3.4028  -2.8842  -1.6381   2.7241   3.5327
+     8.6050  10.2026  14.6763  17.1238
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3870 -11.9548  -1.4260  -0.8402  -0.3331   0.9275   0.9675   1.3094
+    11.0969  12.9574  13.2292  13.7789
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.4014  -8.2571  -7.1542  -4.6988  -0.3782   0.1090   3.2347   3.5369
+     7.5813   9.2373  13.0617  14.2206
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.5273  -9.1783  -4.5228  -3.4034  -2.8845  -1.6377   2.7250   3.5318
+     8.6037  10.2041  14.6785  17.1308
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.4018  -8.2575  -7.1538  -4.6981  -0.3781   0.1090   3.2298   3.5422
+     7.5812   9.2368  13.0613  14.2200
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7655 ev
+
+!    total energy              =     -76.77706045 Ry
+     Harris-Foulkes estimate   =     -76.77827530 Ry
+     estimated scf accuracy    <       0.00203686 Ry
+
+     total all-electron energy =      -311.843413 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.68208954 Ry
+     hartree contribution      =      17.83474709 Ry
+     xc contribution           =     -16.70422134 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.01748300 Ry
+     one-center paw contrib.   =     -26.87695423 Ry
+      -> PAW hartree energy AE =      46.13424326 Ry
+      -> PAW hartree energy PS =     -46.07038089 Ry
+      -> PAW xc energy AE      =     -43.80433366 Ry
+      -> PAW xc energy PS      =      16.86351706 Ry
+      -> total E_H with PAW    =      17.89860946 Ry
+      -> total E_XC with PAW   =     -43.64503794 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  5     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        6.1 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.5840 -13.3804  -2.0460  -0.6315   2.9432   2.9436   2.9554   2.9555
+     9.2280  13.9258  14.1280  14.1294
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3870 -11.9548  -1.4263  -0.8402  -0.3331   0.9276   0.9678   1.3094
+    11.0968  12.9569  13.2300  13.7793
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.4017  -8.2568  -7.1547  -4.6982  -0.3779   0.1089   3.2308   3.5411
+     7.5812   9.2373  13.0614  14.2193
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3869 -11.9548  -1.4261  -0.8404  -0.3328   0.9271   0.9674   1.3094
+    11.0972  12.9537  13.2330  13.7796
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.5273  -9.1782  -4.5234  -3.4035  -2.8840  -1.6377   2.7249   3.5319
+     8.6032  10.2048  14.6777  17.1574
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.5275  -9.1783  -4.5231  -3.4028  -2.8842  -1.6381   2.7241   3.5327
+     8.6050  10.2026  14.6763  17.1238
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3870 -11.9548  -1.4260  -0.8402  -0.3331   0.9275   0.9675   1.3094
+    11.0969  12.9574  13.2292  13.7789
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.4014  -8.2571  -7.1542  -4.6988  -0.3782   0.1090   3.2347   3.5369
+     7.5813   9.2373  13.0617  14.2206
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.5273  -9.1783  -4.5228  -3.4034  -2.8845  -1.6377   2.7250   3.5318
+     8.6037  10.2041  14.6785  17.1308
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.4018  -8.2575  -7.1538  -4.6981  -0.3781   0.1090   3.2298   3.5422
+     7.5812   9.2368  13.0613  14.2200
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7655 ev
+
+!    total energy              =     -76.77706045 Ry
+     Harris-Foulkes estimate   =     -76.77827530 Ry
+     estimated scf accuracy    <       0.00203686 Ry
+
+     total all-electron energy =      -311.843413 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.68208954 Ry
+     hartree contribution      =      17.83474709 Ry
+     xc contribution           =     -16.70422134 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.01748300 Ry
+     one-center paw contrib.   =     -26.87695423 Ry
+      -> PAW hartree energy AE =      46.13424326 Ry
+      -> PAW hartree energy PS =     -46.07038089 Ry
+      -> PAW xc energy AE      =     -43.80433366 Ry
+      -> PAW xc energy PS      =      16.86351706 Ry
+      -> total E_H with PAW    =      17.89860946 Ry
+      -> total E_XC with PAW   =     -43.64503794 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  5     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.27E-05,  avg # of iterations =  3.8
+     ethr =  1.27E-05,  avg # of iterations =  3.8
+     ethr =  1.27E-05,  avg # of iterations =  3.8
+
+     total cpu time spent up to now is        6.6 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7049 -13.4853  -2.1409  -0.6557   2.6027   2.6030   2.9907   2.9912
+     9.2637  13.8371  13.8381  13.9676
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3682 -12.2010  -1.7351  -0.8178  -0.4276   0.6394   0.9038   1.3341
+    11.1292  12.7471  13.2599  13.5222
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3503  -8.5396  -7.4335  -4.6922  -0.7007   0.1284   3.2412   3.4228
+     7.4038   9.2224  12.8200  14.2228
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3681 -12.2010  -1.7351  -0.8176  -0.4273   0.6394   0.9034   1.3338
+    11.1298  12.7455  13.2614  13.5222
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4787  -9.4547  -4.8216  -3.3897  -3.1793  -1.6285   2.6706   3.4797
+     8.4007  10.1929  14.7078  17.1085
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4786  -9.4546  -4.8215  -3.3899  -3.1789  -1.6284   2.6699   3.4805
+     8.4024  10.1912  14.7065  17.0992
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3681 -12.2010  -1.7353  -0.8177  -0.4276   0.6396   0.9037   1.3338
+    11.1293  12.7470  13.2595  13.5223
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3503  -8.5398  -7.4332  -4.6921  -0.7006   0.1282   3.2487   3.4151
+     7.4034   9.2225  12.8197  14.2238
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4786  -9.4546  -4.8214  -3.3898  -3.1790  -1.6285   2.6707   3.4796
+     8.4009  10.1927  14.7087  17.1062
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3502  -8.5395  -7.4337  -4.6924  -0.7005   0.1282   3.2393   3.4248
+     7.4035   9.2224  12.8200  14.2229
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.6896 ev
+
+!    total energy              =     -76.77741429 Ry
+     Harris-Foulkes estimate   =     -76.77742862 Ry
+     estimated scf accuracy    <       0.00009578 Ry
+
+     total all-electron energy =      -311.843766 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.68138724 Ry
+     hartree contribution      =      17.83965949 Ry
+     xc contribution           =     -16.70601248 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00839996 Ry
+     one-center paw contrib.   =     -26.87204859 Ry
+      -> PAW hartree energy AE =      46.59432159 Ry
+      -> PAW hartree energy PS =     -46.53059615 Ry
+      -> PAW xc energy AE      =     -43.89755991 Ry
+      -> PAW xc energy PS      =      16.96178589 Ry
+      -> total E_H with PAW    =      17.90338492 Ry
+      -> total E_XC with PAW   =     -43.64178650 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  6     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        6.6 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7049 -13.4853  -2.1409  -0.6557   2.6027   2.6030   2.9907   2.9912
+     9.2637  13.8371  13.8381  13.9676
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3682 -12.2010  -1.7351  -0.8178  -0.4276   0.6394   0.9038   1.3341
+    11.1292  12.7471  13.2599  13.5222
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3503  -8.5396  -7.4335  -4.6922  -0.7007   0.1284   3.2412   3.4228
+     7.4038   9.2224  12.8200  14.2228
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3681 -12.2010  -1.7351  -0.8176  -0.4273   0.6394   0.9034   1.3338
+    11.1298  12.7455  13.2614  13.5222
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4787  -9.4547  -4.8216  -3.3897  -3.1793  -1.6285   2.6706   3.4797
+     8.4007  10.1929  14.7078  17.1085
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4786  -9.4546  -4.8215  -3.3899  -3.1789  -1.6284   2.6699   3.4805
+     8.4024  10.1912  14.7065  17.0992
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3681 -12.2010  -1.7353  -0.8177  -0.4276   0.6396   0.9037   1.3338
+    11.1293  12.7470  13.2595  13.5223
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3503  -8.5398  -7.4332  -4.6921  -0.7006   0.1282   3.2487   3.4151
+     7.4034   9.2225  12.8197  14.2238
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4786  -9.4546  -4.8214  -3.3898  -3.1790  -1.6285   2.6707   3.4796
+     8.4009  10.1927  14.7087  17.1062
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3502  -8.5395  -7.4337  -4.6924  -0.7005   0.1282   3.2393   3.4248
+     7.4035   9.2224  12.8200  14.2229
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.6896 ev
+
+!    total energy              =     -76.77741429 Ry
+     Harris-Foulkes estimate   =     -76.77742862 Ry
+     estimated scf accuracy    <       0.00009578 Ry
+
+     total all-electron energy =      -311.843766 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.68138724 Ry
+     hartree contribution      =      17.83965949 Ry
+     xc contribution           =     -16.70601248 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00839996 Ry
+     one-center paw contrib.   =     -26.87204859 Ry
+      -> PAW hartree energy AE =      46.59432159 Ry
+      -> PAW hartree energy PS =     -46.53059615 Ry
+      -> PAW xc energy AE      =     -43.89755991 Ry
+      -> PAW xc energy PS      =      16.96178589 Ry
+      -> total E_H with PAW    =      17.90338492 Ry
+      -> total E_XC with PAW   =     -43.64178650 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  6     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        6.6 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7049 -13.4853  -2.1409  -0.6557   2.6027   2.6030   2.9907   2.9912
+     9.2637  13.8371  13.8381  13.9676
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3682 -12.2010  -1.7351  -0.8178  -0.4276   0.6394   0.9038   1.3341
+    11.1292  12.7471  13.2599  13.5222
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3503  -8.5396  -7.4335  -4.6922  -0.7007   0.1284   3.2412   3.4228
+     7.4038   9.2224  12.8200  14.2228
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3681 -12.2010  -1.7351  -0.8176  -0.4273   0.6394   0.9034   1.3338
+    11.1298  12.7455  13.2614  13.5222
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4787  -9.4547  -4.8216  -3.3897  -3.1793  -1.6285   2.6706   3.4797
+     8.4007  10.1929  14.7078  17.1085
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4786  -9.4546  -4.8215  -3.3899  -3.1789  -1.6284   2.6699   3.4805
+     8.4024  10.1912  14.7065  17.0992
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3681 -12.2010  -1.7353  -0.8177  -0.4276   0.6396   0.9037   1.3338
+    11.1293  12.7470  13.2595  13.5223
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3503  -8.5398  -7.4332  -4.6921  -0.7006   0.1282   3.2487   3.4151
+     7.4034   9.2225  12.8197  14.2238
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4786  -9.4546  -4.8214  -3.3898  -3.1790  -1.6285   2.6707   3.4796
+     8.4009  10.1927  14.7087  17.1062
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3502  -8.5395  -7.4337  -4.6924  -0.7005   0.1282   3.2393   3.4248
+     7.4035   9.2224  12.8200  14.2229
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.6896 ev
+
+!    total energy              =     -76.77741429 Ry
+     Harris-Foulkes estimate   =     -76.77742862 Ry
+     estimated scf accuracy    <       0.00009578 Ry
+
+     total all-electron energy =      -311.843766 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.68138724 Ry
+     hartree contribution      =      17.83965949 Ry
+     xc contribution           =     -16.70601248 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00839996 Ry
+     one-center paw contrib.   =     -26.87204859 Ry
+      -> PAW hartree energy AE =      46.59432159 Ry
+      -> PAW hartree energy PS =     -46.53059615 Ry
+      -> PAW xc energy AE      =     -43.89755991 Ry
+      -> PAW xc energy PS      =      16.96178589 Ry
+      -> total E_H with PAW    =      17.90338492 Ry
+      -> total E_XC with PAW   =     -43.64178650 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  6     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  5.99E-07,  avg # of iterations =  4.2
+     ethr =  5.99E-07,  avg # of iterations =  4.2
+     ethr =  5.99E-07,  avg # of iterations =  4.2
+
+     total cpu time spent up to now is        7.2 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7168 -13.4632  -2.1453  -0.6452   2.5809   2.5819   3.0180   3.0186
+     9.2731  13.8156  13.8165  13.9781
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3516 -12.2082  -1.7548  -0.7886  -0.4320   0.6180   0.9132   1.3630
+    11.1384  12.7319  13.2800  13.5052
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3255  -8.5583  -7.4512  -4.6608  -0.7220   0.1579   3.2393   3.4240
+     7.3901   9.2525  12.8044  14.2533
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3515 -12.2082  -1.7551  -0.7884  -0.4317   0.6183   0.9128   1.3626
+    11.1391  12.7304  13.2814  13.5054
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4536  -9.4725  -4.8402  -3.3604  -3.1983  -1.5973   2.6684   3.4823
+     8.3861  10.2224  14.7168  17.1129
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4537  -9.4725  -4.8407  -3.3603  -3.1978  -1.5974   2.6676   3.4831
+     8.3875  10.2207  14.7150  17.1042
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3516 -12.2082  -1.7554  -0.7884  -0.4319   0.6185   0.9132   1.3627
+    11.1387  12.7320  13.2796  13.5059
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3255  -8.5580  -7.4517  -4.6606  -0.7218   0.1576   3.2466   3.4166
+     7.3895   9.2527  12.8044  14.2540
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4536  -9.4725  -4.8410  -3.3601  -3.1975  -1.5976   2.6685   3.4822
+     8.3861  10.2221  14.7173  17.1107
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3256  -8.5575  -7.4525  -4.6605  -0.7215   0.1577   3.2377   3.4260
+     7.3894   9.2525  12.8050  14.2534
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.6878 ev
+
+!    total energy              =     -76.77752549 Ry
+     Harris-Foulkes estimate   =     -76.77758264 Ry
+     estimated scf accuracy    <       0.00013089 Ry
+
+     total all-electron energy =      -311.843878 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.70361899 Ry
+     hartree contribution      =      17.85909581 Ry
+     xc contribution           =     -16.71094864 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.01616963 Ry
+     one-center paw contrib.   =     -26.87219787 Ry
+      -> PAW hartree energy AE =      46.63944915 Ry
+      -> PAW hartree energy PS =     -46.57568715 Ry
+      -> PAW xc energy AE      =     -43.91075818 Ry
+      -> PAW xc energy PS      =      16.97479832 Ry
+      -> total E_H with PAW    =      17.92285781 Ry
+      -> total E_XC with PAW   =     -43.64690851 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  7     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        7.2 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7168 -13.4632  -2.1453  -0.6452   2.5809   2.5819   3.0180   3.0186
+     9.2731  13.8156  13.8165  13.9781
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3516 -12.2082  -1.7548  -0.7886  -0.4320   0.6180   0.9132   1.3630
+    11.1384  12.7319  13.2800  13.5052
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3255  -8.5583  -7.4512  -4.6608  -0.7220   0.1579   3.2393   3.4240
+     7.3901   9.2525  12.8044  14.2533
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3515 -12.2082  -1.7551  -0.7884  -0.4317   0.6183   0.9128   1.3626
+    11.1391  12.7304  13.2814  13.5054
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4536  -9.4725  -4.8402  -3.3604  -3.1983  -1.5973   2.6684   3.4823
+     8.3861  10.2224  14.7168  17.1129
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4537  -9.4725  -4.8407  -3.3603  -3.1978  -1.5974   2.6676   3.4831
+     8.3875  10.2207  14.7150  17.1042
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3516 -12.2082  -1.7554  -0.7884  -0.4319   0.6185   0.9132   1.3627
+    11.1387  12.7320  13.2796  13.5059
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3255  -8.5580  -7.4517  -4.6606  -0.7218   0.1576   3.2466   3.4166
+     7.3895   9.2527  12.8044  14.2540
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4536  -9.4725  -4.8410  -3.3601  -3.1975  -1.5976   2.6685   3.4822
+     8.3861  10.2221  14.7173  17.1107
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3256  -8.5575  -7.4525  -4.6605  -0.7215   0.1577   3.2377   3.4260
+     7.3894   9.2525  12.8050  14.2534
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.6878 ev
+
+!    total energy              =     -76.77752549 Ry
+     Harris-Foulkes estimate   =     -76.77758264 Ry
+     estimated scf accuracy    <       0.00013089 Ry
+
+     total all-electron energy =      -311.843878 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.70361899 Ry
+     hartree contribution      =      17.85909581 Ry
+     xc contribution           =     -16.71094864 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.01616963 Ry
+     one-center paw contrib.   =     -26.87219787 Ry
+      -> PAW hartree energy AE =      46.63944915 Ry
+      -> PAW hartree energy PS =     -46.57568715 Ry
+      -> PAW xc energy AE      =     -43.91075818 Ry
+      -> PAW xc energy PS      =      16.97479832 Ry
+      -> total E_H with PAW    =      17.92285781 Ry
+      -> total E_XC with PAW   =     -43.64690851 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  7     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        7.2 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.7168 -13.4632  -2.1453  -0.6452   2.5809   2.5819   3.0180   3.0186
+     9.2731  13.8156  13.8165  13.9781
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3516 -12.2082  -1.7548  -0.7886  -0.4320   0.6180   0.9132   1.3630
+    11.1384  12.7319  13.2800  13.5052
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3255  -8.5583  -7.4512  -4.6608  -0.7220   0.1579   3.2393   3.4240
+     7.3901   9.2525  12.8044  14.2533
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3515 -12.2082  -1.7551  -0.7884  -0.4317   0.6183   0.9128   1.3626
+    11.1391  12.7304  13.2814  13.5054
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4536  -9.4725  -4.8402  -3.3604  -3.1983  -1.5973   2.6684   3.4823
+     8.3861  10.2224  14.7168  17.1129
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4537  -9.4725  -4.8407  -3.3603  -3.1978  -1.5974   2.6676   3.4831
+     8.3875  10.2207  14.7150  17.1042
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3516 -12.2082  -1.7554  -0.7884  -0.4319   0.6185   0.9132   1.3627
+    11.1387  12.7320  13.2796  13.5059
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3255  -8.5580  -7.4517  -4.6606  -0.7218   0.1576   3.2466   3.4166
+     7.3895   9.2527  12.8044  14.2540
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4536  -9.4725  -4.8410  -3.3601  -3.1975  -1.5976   2.6685   3.4822
+     8.3861  10.2221  14.7173  17.1107
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3256  -8.5575  -7.4525  -4.6605  -0.7215   0.1577   3.2377   3.4260
+     7.3894   9.2525  12.8050  14.2534
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.6878 ev
+
+!    total energy              =     -76.77752549 Ry
+     Harris-Foulkes estimate   =     -76.77758264 Ry
+     estimated scf accuracy    <       0.00013089 Ry
+
+     total all-electron energy =      -311.843878 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.70361899 Ry
+     hartree contribution      =      17.85909581 Ry
+     xc contribution           =     -16.71094864 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.01616963 Ry
+     one-center paw contrib.   =     -26.87219787 Ry
+      -> PAW hartree energy AE =      46.63944915 Ry
+      -> PAW hartree energy PS =     -46.57568715 Ry
+      -> PAW xc energy AE      =     -43.91075818 Ry
+      -> PAW xc energy PS      =      16.97479832 Ry
+      -> total E_H with PAW    =      17.92285781 Ry
+      -> total E_XC with PAW   =     -43.64690851 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  7     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  5.99E-07,  avg # of iterations =  1.0
+     ethr =  5.99E-07,  avg # of iterations =  1.0
+     ethr =  5.99E-07,  avg # of iterations =  1.0
+
+     total cpu time spent up to now is        7.6 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.6825 -13.4664  -2.1294  -0.6441   2.6322   2.6328   3.0088   3.0093
+     9.2696  13.8598  13.8606  13.9736
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3498 -12.1784  -1.7082  -0.7967  -0.4159   0.6674   0.9144   1.3546
+    11.1353  12.7650  13.2733  13.5445
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3358  -8.5153  -7.4088  -4.6674  -0.6733   0.1499   3.2506   3.4299
+     7.4179   9.2492  12.8418  14.2483
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3498 -12.1784  -1.7084  -0.7965  -0.4156   0.6677   0.9140   1.3542
+    11.1360  12.7635  13.2749  13.5448
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4636  -9.4304  -4.7953  -3.3669  -3.1538  -1.6044   2.6804   3.4872
+     8.4172  10.2188  14.7141  17.1178
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4636  -9.4304  -4.7954  -3.3668  -3.1537  -1.6044   2.6796   3.4879
+     8.4187  10.2170  14.7123  17.1080
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3498 -12.1784  -1.7085  -0.7965  -0.4158   0.6677   0.9143   1.3543
+    11.1355  12.7653  13.2729  13.5449
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3357  -8.5150  -7.4092  -4.6673  -0.6731   0.1497   3.2581   3.4223
+     7.4173   9.2494  12.8418  14.2491
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4636  -9.4304  -4.7958  -3.3667  -3.1534  -1.6045   2.6805   3.4870
+     8.4173  10.2185  14.7145  17.1154
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3358  -8.5149  -7.4094  -4.6672  -0.6731   0.1498   3.2488   3.4320
+     7.4174   9.2492  12.8421  14.2484
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7037 ev
+
+!    total energy              =     -76.77751744 Ry
+     Harris-Foulkes estimate   =     -76.77753107 Ry
+     estimated scf accuracy    <       0.00003116 Ry
+
+     total all-electron energy =      -311.843870 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.70422562 Ry
+     hartree contribution      =      17.86964207 Ry
+     xc contribution           =     -16.71353722 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00903895 Ry
+     one-center paw contrib.   =     -26.87241018 Ry
+      -> PAW hartree energy AE =      46.65197042 Ry
+      -> PAW hartree energy PS =     -46.58818266 Ry
+      -> PAW xc energy AE      =     -43.91576227 Ry
+      -> PAW xc energy PS      =      16.97956434 Ry
+      -> total E_H with PAW    =      17.93342982 Ry
+      -> total E_XC with PAW   =     -43.64973516 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  8     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        7.6 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.6825 -13.4664  -2.1294  -0.6441   2.6322   2.6328   3.0088   3.0093
+     9.2696  13.8598  13.8606  13.9736
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3498 -12.1784  -1.7082  -0.7967  -0.4159   0.6674   0.9144   1.3546
+    11.1353  12.7650  13.2733  13.5445
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3358  -8.5153  -7.4088  -4.6674  -0.6733   0.1499   3.2506   3.4299
+     7.4179   9.2492  12.8418  14.2483
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3498 -12.1784  -1.7084  -0.7965  -0.4156   0.6677   0.9140   1.3542
+    11.1360  12.7635  13.2749  13.5448
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4636  -9.4304  -4.7953  -3.3669  -3.1538  -1.6044   2.6804   3.4872
+     8.4172  10.2188  14.7141  17.1178
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4636  -9.4304  -4.7954  -3.3668  -3.1537  -1.6044   2.6796   3.4879
+     8.4187  10.2170  14.7123  17.1080
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3498 -12.1784  -1.7085  -0.7965  -0.4158   0.6677   0.9143   1.3543
+    11.1355  12.7653  13.2729  13.5449
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3357  -8.5150  -7.4092  -4.6673  -0.6731   0.1497   3.2581   3.4223
+     7.4173   9.2494  12.8418  14.2491
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4636  -9.4304  -4.7958  -3.3667  -3.1534  -1.6045   2.6805   3.4870
+     8.4173  10.2185  14.7145  17.1154
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3358  -8.5149  -7.4094  -4.6672  -0.6731   0.1498   3.2488   3.4320
+     7.4174   9.2492  12.8421  14.2484
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7037 ev
+
+!    total energy              =     -76.77751744 Ry
+     Harris-Foulkes estimate   =     -76.77753107 Ry
+     estimated scf accuracy    <       0.00003116 Ry
+
+     total all-electron energy =      -311.843870 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.70422562 Ry
+     hartree contribution      =      17.86964207 Ry
+     xc contribution           =     -16.71353722 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00903895 Ry
+     one-center paw contrib.   =     -26.87241018 Ry
+      -> PAW hartree energy AE =      46.65197042 Ry
+      -> PAW hartree energy PS =     -46.58818266 Ry
+      -> PAW xc energy AE      =     -43.91576227 Ry
+      -> PAW xc energy PS      =      16.97956434 Ry
+      -> total E_H with PAW    =      17.93342982 Ry
+      -> total E_XC with PAW   =     -43.64973516 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  8     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        7.7 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.6825 -13.4664  -2.1294  -0.6441   2.6322   2.6328   3.0088   3.0093
+     9.2696  13.8598  13.8606  13.9736
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3498 -12.1784  -1.7082  -0.7967  -0.4159   0.6674   0.9144   1.3546
+    11.1353  12.7650  13.2733  13.5445
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3358  -8.5153  -7.4088  -4.6674  -0.6733   0.1499   3.2506   3.4299
+     7.4179   9.2492  12.8418  14.2483
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3498 -12.1784  -1.7084  -0.7965  -0.4156   0.6677   0.9140   1.3542
+    11.1360  12.7635  13.2749  13.5448
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4636  -9.4304  -4.7953  -3.3669  -3.1538  -1.6044   2.6804   3.4872
+     8.4172  10.2188  14.7141  17.1178
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4636  -9.4304  -4.7954  -3.3668  -3.1537  -1.6044   2.6796   3.4879
+     8.4187  10.2170  14.7123  17.1080
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3498 -12.1784  -1.7085  -0.7965  -0.4158   0.6677   0.9143   1.3543
+    11.1355  12.7653  13.2729  13.5449
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3357  -8.5150  -7.4092  -4.6673  -0.6731   0.1497   3.2581   3.4223
+     7.4173   9.2494  12.8418  14.2491
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4636  -9.4304  -4.7958  -3.3667  -3.1534  -1.6045   2.6805   3.4870
+     8.4173  10.2185  14.7145  17.1154
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3358  -8.5149  -7.4094  -4.6672  -0.6731   0.1498   3.2488   3.4320
+     7.4174   9.2492  12.8421  14.2484
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7037 ev
+
+!    total energy              =     -76.77751744 Ry
+     Harris-Foulkes estimate   =     -76.77753107 Ry
+     estimated scf accuracy    <       0.00003116 Ry
+
+     total all-electron energy =      -311.843870 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.70422562 Ry
+     hartree contribution      =      17.86964207 Ry
+     xc contribution           =     -16.71353722 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00903895 Ry
+     one-center paw contrib.   =     -26.87241018 Ry
+      -> PAW hartree energy AE =      46.65197042 Ry
+      -> PAW hartree energy PS =     -46.58818266 Ry
+      -> PAW xc energy AE      =     -43.91576227 Ry
+      -> PAW xc energy PS      =      16.97956434 Ry
+      -> total E_H with PAW    =      17.93342982 Ry
+      -> total E_XC with PAW   =     -43.64973516 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  8     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  1.95E-07,  avg # of iterations =  3.0
+     ethr =  1.95E-07,  avg # of iterations =  3.0
+     ethr =  1.95E-07,  avg # of iterations =  3.0
+
+     total cpu time spent up to now is        8.1 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.6643 -13.4678  -2.1205  -0.6436   2.6609   2.6615   3.0027   3.0032
+     9.2673  13.8848  13.8855  13.9716
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3515 -12.1596  -1.6819  -0.8023  -0.4069   0.6952   0.9150   1.3487
+    11.1332  12.7836  13.2694  13.5669
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3422  -8.4909  -7.3848  -4.6725  -0.6459   0.1443   3.2550   3.4355
+     7.4337   9.2458  12.8630  14.2442
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3515 -12.1597  -1.6821  -0.8021  -0.4066   0.6955   0.9145   1.3484
+    11.1339  12.7820  13.2710  13.5671
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4699  -9.4066  -4.7700  -3.3720  -3.1285  -1.6097   2.6868   3.4904
+     8.4348  10.2154  14.7122  17.1202
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4699  -9.4066  -4.7699  -3.3719  -3.1286  -1.6097   2.6860   3.4912
+     8.4364  10.2136  14.7104  17.1103
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3515 -12.1596  -1.6821  -0.8022  -0.4069   0.6954   0.9149   1.3485
+    11.1334  12.7839  13.2689  13.5672
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3421  -8.4907  -7.3851  -4.6724  -0.6457   0.1440   3.2625   3.4279
+     7.4332   9.2459  12.8630  14.2450
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4699  -9.4066  -4.7702  -3.3719  -3.1283  -1.6098   2.6869   3.4903
+     8.4350  10.2150  14.7127  17.1178
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3422  -8.4908  -7.3850  -4.6724  -0.6457   0.1441   3.2532   3.4375
+     7.4333   9.2457  12.8631  14.2443
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7121 ev
+
+!    total energy              =     -76.77752641 Ry
+     Harris-Foulkes estimate   =     -76.77752696 Ry
+     estimated scf accuracy    <       0.00000132 Ry
+
+     total all-electron energy =      -311.843879 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.69630411 Ry
+     hartree contribution      =      17.87059014 Ry
+     xc contribution           =     -16.71386793 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00052519 Ry
+     one-center paw contrib.   =     -26.87244428 Ry
+      -> PAW hartree energy AE =      46.64722427 Ry
+      -> PAW hartree energy PS =     -46.58343521 Ry
+      -> PAW xc energy AE      =     -43.91572939 Ry
+      -> PAW xc energy PS      =      16.97949605 Ry
+      -> total E_H with PAW    =      17.93437921 Ry
+      -> total E_XC with PAW   =     -43.65010127 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  9     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        8.1 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.6643 -13.4678  -2.1205  -0.6436   2.6609   2.6615   3.0027   3.0032
+     9.2673  13.8848  13.8855  13.9716
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3515 -12.1596  -1.6819  -0.8023  -0.4069   0.6952   0.9150   1.3487
+    11.1332  12.7836  13.2694  13.5669
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3422  -8.4909  -7.3848  -4.6725  -0.6459   0.1443   3.2550   3.4355
+     7.4337   9.2458  12.8630  14.2442
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3515 -12.1597  -1.6821  -0.8021  -0.4066   0.6955   0.9145   1.3484
+    11.1339  12.7820  13.2710  13.5671
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4699  -9.4066  -4.7700  -3.3720  -3.1285  -1.6097   2.6868   3.4904
+     8.4348  10.2154  14.7122  17.1202
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4699  -9.4066  -4.7699  -3.3719  -3.1286  -1.6097   2.6860   3.4912
+     8.4364  10.2136  14.7104  17.1103
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3515 -12.1596  -1.6821  -0.8022  -0.4069   0.6954   0.9149   1.3485
+    11.1334  12.7839  13.2689  13.5672
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3421  -8.4907  -7.3851  -4.6724  -0.6457   0.1440   3.2625   3.4279
+     7.4332   9.2459  12.8630  14.2450
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4699  -9.4066  -4.7702  -3.3719  -3.1283  -1.6098   2.6869   3.4903
+     8.4350  10.2150  14.7127  17.1178
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3422  -8.4908  -7.3850  -4.6724  -0.6457   0.1441   3.2532   3.4375
+     7.4333   9.2457  12.8631  14.2443
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7121 ev
+
+!    total energy              =     -76.77752641 Ry
+     Harris-Foulkes estimate   =     -76.77752696 Ry
+     estimated scf accuracy    <       0.00000132 Ry
+
+     total all-electron energy =      -311.843879 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.69630411 Ry
+     hartree contribution      =      17.87059014 Ry
+     xc contribution           =     -16.71386793 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00052519 Ry
+     one-center paw contrib.   =     -26.87244428 Ry
+      -> PAW hartree energy AE =      46.64722427 Ry
+      -> PAW hartree energy PS =     -46.58343521 Ry
+      -> PAW xc energy AE      =     -43.91572939 Ry
+      -> PAW xc energy PS      =      16.97949605 Ry
+      -> total E_H with PAW    =      17.93437921 Ry
+      -> total E_XC with PAW   =     -43.65010127 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  9     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+
+     total cpu time spent up to now is        8.2 secs
+
+          k = 0.0000 0.0000 0.0000     band energies (ev):
+
+   -13.6643 -13.4678  -2.1205  -0.6436   2.6609   2.6615   3.0027   3.0032
+     9.2673  13.8848  13.8855  13.9716
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006     band energies (ev):
+
+   -12.3515 -12.1596  -1.6819  -0.8023  -0.4069   0.6952   0.9150   1.3487
+    11.1332  12.7836  13.2694  13.5669
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011     band energies (ev):
+
+   -10.3422  -8.4909  -7.3848  -4.6725  -0.6459   0.1443   3.2550   3.4355
+     7.4337   9.2458  12.8630  14.2442
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014     band energies (ev):
+
+   -12.3515 -12.1597  -1.6821  -0.8021  -0.4066   0.6955   0.9145   1.3484
+    11.1339  12.7820  13.2710  13.5671
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019     band energies (ev):
+
+   -10.4699  -9.4066  -4.7700  -3.3720  -3.1285  -1.6097   2.6868   3.4904
+     8.4348  10.2154  14.7122  17.1202
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002     band energies (ev):
+
+   -10.4699  -9.4066  -4.7699  -3.3719  -3.1286  -1.6097   2.6860   3.4912
+     8.4364  10.2136  14.7104  17.1103
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008     band energies (ev):
+
+   -12.3515 -12.1596  -1.6821  -0.8022  -0.4069   0.6954   0.9149   1.3485
+    11.1334  12.7839  13.2689  13.5672
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027     band energies (ev):
+
+   -10.3421  -8.4907  -7.3851  -4.6724  -0.6457   0.1440   3.2625   3.4279
+     7.4332   9.2459  12.8630  14.2450
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022     band energies (ev):
+
+   -10.4699  -9.4066  -4.7702  -3.3719  -3.1283  -1.6098   2.6869   3.4903
+     8.4350  10.2150  14.7127  17.1178
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039     band energies (ev):
+
+   -10.3422  -8.4908  -7.3850  -4.6724  -0.6457   0.1441   3.2532   3.4375
+     7.4333   9.2457  12.8631  14.2443
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7121 ev
+
+!    total energy              =     -76.77752641 Ry
+     Harris-Foulkes estimate   =     -76.77752696 Ry
+     estimated scf accuracy    <       0.00000132 Ry
+
+     total all-electron energy =      -311.843879 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.69630411 Ry
+     hartree contribution      =      17.87059014 Ry
+     xc contribution           =     -16.71386793 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     scf correction            =       0.00052519 Ry
+     one-center paw contrib.   =     -26.87244428 Ry
+      -> PAW hartree energy AE =      46.64722427 Ry
+      -> PAW hartree energy PS =     -46.58343521 Ry
+      -> PAW xc energy AE      =     -43.91572939 Ry
+      -> PAW xc energy PS      =      16.97949605 Ry
+      -> total E_H with PAW    =      17.93437921 Ry
+      -> total E_XC with PAW   =     -43.65010127 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     iteration #  9     ecut=    52.00 Ry     beta= 0.70
+     Davidson diagonalization with overlap
+     ethr =  8.28E-09,  avg # of iterations =  3.7
+     ethr =  8.28E-09,  avg # of iterations =  3.7
+     ethr =  8.28E-09,  avg # of iterations =  3.7
+
+     total cpu time spent up to now is        8.7 secs
+
+     End of self-consistent calculation
+
+          k = 0.0000 0.0000 0.0000 (  1691 PWs)   bands (ev):
+
+   -13.6621 -13.4686  -2.1195  -0.6438   2.6651   2.6656   3.0006   3.0011
+     9.2670  13.8882  13.8889  13.9710
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006 (  1660 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6782  -0.8039  -0.4059   0.6992   0.9147   1.3469
+    11.1329  12.7861  13.2688  13.5700
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4875  -7.3815  -4.6737  -0.6420   0.1425   3.2551   3.4359
+     7.4357   9.2461  12.8659  14.2438
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014 (  1669 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6784  -0.8038  -0.4056   0.6995   0.9143   1.3466
+    11.1336  12.7845  13.2704  13.5701
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019 (  1656 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7665  -3.3733  -3.1249  -1.6111   2.6873   3.4904
+     8.4371  10.2155  14.7119  17.1204
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002 (  1658 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7663  -3.3733  -3.1251  -1.6111   2.6865   3.4911
+     8.4387  10.2137  14.7101  17.1103
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008 (  1661 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6783  -0.8038  -0.4059   0.6993   0.9147   1.3467
+    11.1331  12.7864  13.2683  13.5701
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4873  -7.3818  -4.6736  -0.6418   0.1423   3.2625   3.4283
+     7.4351   9.2462  12.8658  14.2447
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022 (  1656 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7666  -3.3733  -3.1249  -1.6112   2.6874   3.4902
+     8.4373  10.2152  14.7124  17.1179
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4875  -7.3816  -4.6737  -0.6419   0.1424   3.2532   3.4378
+     7.4353   9.2460  12.8659  14.2439
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7130 ev
+
+!    total energy              =     -76.77752723 Ry
+     Harris-Foulkes estimate   =     -76.77752746 Ry
+     estimated scf accuracy    <       0.00000030 Ry
+
+     total all-electron energy =      -311.843879 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.69771381 Ry
+     hartree contribution      =      17.87314637 Ry
+     xc contribution           =     -16.71444660 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     one-center paw contrib.   =     -26.87248776 Ry
+      -> PAW hartree energy AE =      46.64878742 Ry
+      -> PAW hartree energy PS =     -46.58499262 Ry
+      -> PAW xc energy AE      =     -43.91602224 Ry
+      -> PAW xc energy PS      =      16.97973968 Ry
+      -> total E_H with PAW    =      17.93694117 Ry
+      -> total E_XC with PAW   =     -43.65072916 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     convergence has been achieved in   9 iterations
+
+     total cpu time spent up to now is        8.7 secs
+
+     End of self-consistent calculation
+
+          k = 0.0000 0.0000 0.0000 (  1691 PWs)   bands (ev):
+
+   -13.6621 -13.4686  -2.1195  -0.6438   2.6651   2.6656   3.0006   3.0011
+     9.2670  13.8882  13.8889  13.9710
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006 (  1660 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6782  -0.8039  -0.4059   0.6992   0.9147   1.3469
+    11.1329  12.7861  13.2688  13.5700
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4875  -7.3815  -4.6737  -0.6420   0.1425   3.2551   3.4359
+     7.4357   9.2461  12.8659  14.2438
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014 (  1669 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6784  -0.8038  -0.4056   0.6995   0.9143   1.3466
+    11.1336  12.7845  13.2704  13.5701
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019 (  1656 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7665  -3.3733  -3.1249  -1.6111   2.6873   3.4904
+     8.4371  10.2155  14.7119  17.1204
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002 (  1658 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7663  -3.3733  -3.1251  -1.6111   2.6865   3.4911
+     8.4387  10.2137  14.7101  17.1103
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008 (  1661 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6783  -0.8038  -0.4059   0.6993   0.9147   1.3467
+    11.1331  12.7864  13.2683  13.5701
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4873  -7.3818  -4.6736  -0.6418   0.1423   3.2625   3.4283
+     7.4351   9.2462  12.8658  14.2447
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022 (  1656 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7666  -3.3733  -3.1249  -1.6112   2.6874   3.4902
+     8.4373  10.2152  14.7124  17.1179
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4875  -7.3816  -4.6737  -0.6419   0.1424   3.2532   3.4378
+     7.4353   9.2460  12.8659  14.2439
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7130 ev
+
+!    total energy              =     -76.77752723 Ry
+     Harris-Foulkes estimate   =     -76.77752746 Ry
+     estimated scf accuracy    <       0.00000030 Ry
+
+     total all-electron energy =      -311.843879 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.69771381 Ry
+     hartree contribution      =      17.87314637 Ry
+     xc contribution           =     -16.71444660 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     one-center paw contrib.   =     -26.87248776 Ry
+      -> PAW hartree energy AE =      46.64878742 Ry
+      -> PAW hartree energy PS =     -46.58499262 Ry
+      -> PAW xc energy AE      =     -43.91602224 Ry
+      -> PAW xc energy PS      =      16.97973968 Ry
+      -> total E_H with PAW    =      17.93694117 Ry
+      -> total E_XC with PAW   =     -43.65072916 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     convergence has been achieved in   9 iterations
+
+     total cpu time spent up to now is        8.8 secs
+
+     End of self-consistent calculation
+
+          k = 0.0000 0.0000 0.0000 (  1691 PWs)   bands (ev):
+
+   -13.6621 -13.4686  -2.1195  -0.6438   2.6651   2.6656   3.0006   3.0011
+     9.2670  13.8882  13.8889  13.9710
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.0000 0.2868-0.0006 (  1660 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6782  -0.8039  -0.4059   0.6992   0.9147   1.3469
+    11.1329  12.7861  13.2688  13.5700
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.0000-0.5736 0.0011 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4875  -7.3815  -4.6737  -0.6420   0.1425   3.2551   3.4359
+     7.4357   9.2461  12.8659  14.2438
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.1434-0.0014 (  1669 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6784  -0.8038  -0.4056   0.6995   0.9143   1.3466
+    11.1336  12.7845  13.2704  13.5701
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484 0.4302-0.0019 (  1656 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7665  -3.3733  -3.1249  -1.6111   2.6873   3.4904
+     8.4371  10.2155  14.7119  17.1204
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.4302-0.0002 (  1658 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7663  -3.3733  -3.1251  -1.6111   2.6865   3.4911
+     8.4387  10.2137  14.7101  17.1103
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k = 0.2484-0.1434-0.0008 (  1661 PWs)   bands (ev):
+
+   -12.3526 -12.1571  -1.6783  -0.8038  -0.4059   0.6993   0.9147   1.3467
+    11.1331  12.7864  13.2683  13.5701
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.2868 0.0027 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4873  -7.3818  -4.6736  -0.6418   0.1423   3.2625   3.4283
+     7.4351   9.2462  12.8658  14.2447
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.0000 0.0022 (  1656 PWs)   bands (ev):
+
+   -10.4718  -9.4033  -4.7666  -3.3733  -3.1249  -1.6112   2.6874   3.4902
+     8.4373  10.2152  14.7124  17.1179
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+          k =-0.4968-0.8604 0.0039 (  1654 PWs)   bands (ev):
+
+   -10.3441  -8.4875  -7.3816  -4.6737  -0.6419   0.1424   3.2532   3.4378
+     7.4353   9.2460  12.8659  14.2439
+
+     occupation numbers 
+     1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000   1.0000
+    -0.0000  -0.0000  -0.0000  -0.0000
+
+     the Fermi energy is     5.7130 ev
+
+!    total energy              =     -76.77752723 Ry
+     Harris-Foulkes estimate   =     -76.77752746 Ry
+     estimated scf accuracy    <       0.00000030 Ry
+
+     total all-electron energy =      -311.843879 Ry
+
+     The total energy is the sum of the following terms:
+
+     one-electron contribution =     -19.69771381 Ry
+     hartree contribution      =      17.87314637 Ry
+     xc contribution           =     -16.71444660 Ry
+     ewald contribution        =     -31.34265283 Ry
+     DFT-D3 Dispersion         =      -0.02337261 Ry
+     one-center paw contrib.   =     -26.87248776 Ry
+      -> PAW hartree energy AE =      46.64878742 Ry
+      -> PAW hartree energy PS =     -46.58499262 Ry
+      -> PAW xc energy AE      =     -43.91602224 Ry
+      -> PAW xc energy PS      =      16.97973968 Ry
+      -> total E_H with PAW    =      17.93694117 Ry
+      -> total E_XC with PAW   =     -43.65072916 Ry
+     smearing contrib. (-TS)   =       0.00000000 Ry
+
+     convergence has been achieved in   9 iterations
+
+     Forces acting on atoms (cartesian axes, Ry/au):
+
+     atom    1 type  2   force =    -0.00001399   -0.00004089    0.00079180
+     atom    2 type  3   force =    -0.00001875    0.00002127   -0.00014328
+     atom    3 type  1   force =     0.00003845    0.00003169   -0.00006110
+     atom    4 type  1   force =    -0.00000572   -0.00001207   -0.00058742
+     The non-local contrib.  to forces
+     atom    1 type  2   force =     0.00002170   -0.00001903    0.00013105
+     atom    2 type  3   force =     0.00001159    0.00004626   -0.00015938
+     atom    3 type  1   force =     0.00002902    0.00003437    0.00026995
+     atom    4 type  1   force =    -0.00001997   -0.00001769   -0.00055828
+     The ionic contribution  to forces
+     atom    1 type  2   force =    -0.00116652   -0.00056508    0.14858415
+     atom    2 type  3   force =    -0.00201986   -0.00069161    0.25144844
+     atom    3 type  1   force =     0.00173608    0.00074653   -0.20237548
+     atom    4 type  1   force =     0.00145030    0.00051016   -0.19765711
+     The local contribution  to forces
+     atom    1 type  2   force =     0.00115045    0.00056779   -0.14863865
+     atom    2 type  3   force =     0.00201920    0.00063015   -0.25143635
+     atom    3 type  1   force =    -0.00171504   -0.00074557    0.20195444
+     atom    4 type  1   force =    -0.00142534   -0.00051737    0.19763344
+     The core correction contribution to forces
+     atom    1 type  2   force =    -0.00002989   -0.00004415    0.00087995
+     atom    2 type  3   force =    -0.00000524   -0.00000401   -0.00001316
+     atom    3 type  1   force =    -0.00001712   -0.00002196    0.00007061
+     atom    4 type  1   force =    -0.00001642   -0.00001301   -0.00000472
+     The Hubbard contrib.    to forces
+     atom    1 type  2   force =     0.00000000    0.00000000    0.00000000
+     atom    2 type  3   force =     0.00000000    0.00000000    0.00000000
+     atom    3 type  1   force =     0.00000000    0.00000000    0.00000000
+     atom    4 type  1   force =     0.00000000    0.00000000    0.00000000
+     The SCF correction term to forces
+     atom    1 type  2   force =     0.00000101   -0.00000126    0.00005785
+     atom    2 type  3   force =    -0.00003419    0.00001951    0.00022752
+     atom    3 type  1   force =    -0.00000303   -0.00000210    0.00018278
+     atom    4 type  1   force =    -0.00000461    0.00000468    0.00018349
+
+     DFT-D3 dispersion contribution to forces:
+     atom    1 type  2   force =    -0.00000022   -0.00000001   -0.00002743
+     atom    2 type  3   force =     0.00000028    0.00000013   -0.00001521
+     atom    3 type  1   force =    -0.00000093   -0.00000042    0.00003174
+     atom    4 type  1   force =     0.00000086    0.00000031    0.00001089
+
+     Total force =     0.001001     Total SCF correction =     0.000352
+
+     DFT-D3 dispersion Force =     0.000046
+     SCF correction compared to forces is large: reduce conv_thr to get better values
+
+
+     Computing stress (Cartesian axis) and pressure
+
+
+     Forces acting on atoms (cartesian axes, Ry/au):
+
+     atom    1 type  2   force =    -0.00001399   -0.00004089    0.00079180
+     atom    2 type  3   force =    -0.00001875    0.00002127   -0.00014328
+     atom    3 type  1   force =     0.00003845    0.00003169   -0.00006110
+     atom    4 type  1   force =    -0.00000572   -0.00001207   -0.00058742
+     The non-local contrib.  to forces
+     atom    1 type  2   force =     0.00002170   -0.00001903    0.00013105
+     atom    2 type  3   force =     0.00001159    0.00004626   -0.00015938
+     atom    3 type  1   force =     0.00002902    0.00003437    0.00026995
+     atom    4 type  1   force =    -0.00001997   -0.00001769   -0.00055828
+     The ionic contribution  to forces
+     atom    1 type  2   force =    -0.00116652   -0.00056508    0.14858415
+     atom    2 type  3   force =    -0.00201986   -0.00069161    0.25144844
+     atom    3 type  1   force =     0.00173608    0.00074653   -0.20237548
+     atom    4 type  1   force =     0.00145030    0.00051016   -0.19765711
+     The local contribution  to forces
+     atom    1 type  2   force =     0.00115045    0.00056779   -0.14863865
+     atom    2 type  3   force =     0.00201920    0.00063015   -0.25143635
+     atom    3 type  1   force =    -0.00171504   -0.00074557    0.20195444
+     atom    4 type  1   force =    -0.00142534   -0.00051737    0.19763344
+     The core correction contribution to forces
+     atom    1 type  2   force =    -0.00002989   -0.00004415    0.00087995
+     atom    2 type  3   force =    -0.00000524   -0.00000401   -0.00001316
+     atom    3 type  1   force =    -0.00001712   -0.00002196    0.00007061
+     atom    4 type  1   force =    -0.00001642   -0.00001301   -0.00000472
+     The Hubbard contrib.    to forces
+     atom    1 type  2   force =     0.00000000    0.00000000    0.00000000
+     atom    2 type  3   force =     0.00000000    0.00000000    0.00000000
+     atom    3 type  1   force =     0.00000000    0.00000000    0.00000000
+     atom    4 type  1   force =     0.00000000    0.00000000    0.00000000
+     The SCF correction term to forces
+     atom    1 type  2   force =     0.00000101   -0.00000126    0.00005785
+     atom    2 type  3   force =    -0.00003419    0.00001951    0.00022752
+     atom    3 type  1   force =    -0.00000303   -0.00000210    0.00018278
+     atom    4 type  1   force =    -0.00000461    0.00000468    0.00018349
+
+     DFT-D3 dispersion contribution to forces:
+     atom    1 type  2   force =    -0.00000022   -0.00000001   -0.00002743
+     atom    2 type  3   force =     0.00000028    0.00000013   -0.00001521
+     atom    3 type  1   force =    -0.00000093   -0.00000042    0.00003174
+     atom    4 type  1   force =     0.00000086    0.00000031    0.00001089
+
+     Total force =     0.001001     Total SCF correction =     0.000352
+
+     DFT-D3 dispersion Force =     0.000046
+     SCF correction compared to forces is large: reduce conv_thr to get better values
+
+
+     Computing stress (Cartesian axis) and pressure
+
+
+     Forces acting on atoms (cartesian axes, Ry/au):
+
+     atom    1 type  2   force =    -0.00001399   -0.00004089    0.00079180
+     atom    2 type  3   force =    -0.00001875    0.00002127   -0.00014328
+     atom    3 type  1   force =     0.00003845    0.00003169   -0.00006110
+     atom    4 type  1   force =    -0.00000572   -0.00001207   -0.00058742
+     The non-local contrib.  to forces
+     atom    1 type  2   force =     0.00002170   -0.00001903    0.00013105
+     atom    2 type  3   force =     0.00001159    0.00004626   -0.00015938
+     atom    3 type  1   force =     0.00002902    0.00003437    0.00026995
+     atom    4 type  1   force =    -0.00001997   -0.00001769   -0.00055828
+     The ionic contribution  to forces
+     atom    1 type  2   force =    -0.00116652   -0.00056508    0.14858415
+     atom    2 type  3   force =    -0.00201986   -0.00069161    0.25144844
+     atom    3 type  1   force =     0.00173608    0.00074653   -0.20237548
+     atom    4 type  1   force =     0.00145030    0.00051016   -0.19765711
+     The local contribution  to forces
+     atom    1 type  2   force =     0.00115045    0.00056779   -0.14863865
+     atom    2 type  3   force =     0.00201920    0.00063015   -0.25143635
+     atom    3 type  1   force =    -0.00171504   -0.00074557    0.20195444
+     atom    4 type  1   force =    -0.00142534   -0.00051737    0.19763344
+     The core correction contribution to forces
+     atom    1 type  2   force =    -0.00002989   -0.00004415    0.00087995
+     atom    2 type  3   force =    -0.00000524   -0.00000401   -0.00001316
+     atom    3 type  1   force =    -0.00001712   -0.00002196    0.00007061
+     atom    4 type  1   force =    -0.00001642   -0.00001301   -0.00000472
+     The Hubbard contrib.    to forces
+     atom    1 type  2   force =     0.00000000    0.00000000    0.00000000
+     atom    2 type  3   force =     0.00000000    0.00000000    0.00000000
+     atom    3 type  1   force =     0.00000000    0.00000000    0.00000000
+     atom    4 type  1   force =     0.00000000    0.00000000    0.00000000
+     The SCF correction term to forces
+     atom    1 type  2   force =     0.00000101   -0.00000126    0.00005785
+     atom    2 type  3   force =    -0.00003419    0.00001951    0.00022752
+     atom    3 type  1   force =    -0.00000303   -0.00000210    0.00018278
+     atom    4 type  1   force =    -0.00000461    0.00000468    0.00018349
+
+     DFT-D3 dispersion contribution to forces:
+     atom    1 type  2   force =    -0.00000022   -0.00000001   -0.00002743
+     atom    2 type  3   force =     0.00000028    0.00000013   -0.00001521
+     atom    3 type  1   force =    -0.00000093   -0.00000042    0.00003174
+     atom    4 type  1   force =     0.00000086    0.00000031    0.00001089
+
+     Total force =     0.001001     Total SCF correction =     0.000352
+
+     DFT-D3 dispersion Force =     0.000046
+     SCF correction compared to forces is large: reduce conv_thr to get better values
+
+
+     Computing stress (Cartesian axis) and pressure
+
+          total   stress  (Ry/bohr**3)                   (kbar)     P=        1.48
+   0.00000565   0.00000010   0.00000102            0.83        0.01        0.15
+   0.00000010   0.00000576   0.00000052            0.01        0.85        0.08
+   0.00000102   0.00000052   0.00001886            0.15        0.08        2.77
+
+     kinetic stress (kbar)  10668.02      0.06    -10.71
+                                0.06  10667.91     -4.21
+                              -10.71     -4.21  12058.11
+
+     local   stress (kbar) -24992.09      0.98   -359.60
+                                0.98 -24994.43   -141.78
+                             -359.60   -141.78  21009.65
+
+     nonloc. stress (kbar)   3905.14      0.00      2.47
+                                0.00   3905.12      0.98
+                                2.47      0.98   3591.36
+
+     hartree stress (kbar)   8395.98     -0.33    118.32
+                               -0.33   8396.76     46.64
+                              118.32     46.64  -6767.16
+
+     exc-cor stress (kbar)  -1386.31      0.00      0.83
+                                0.00  -1386.31      0.33
+                                0.83      0.33  -1493.45
+
+     corecor stress (kbar)  -1331.93     -0.03     -0.27
+                               -0.03  -1331.87     -0.10
+                               -0.27     -0.10  -1294.33
+
+     ewald   stress (kbar)   4748.85     -0.66    249.01
+                               -0.66   4750.50     98.18
+                              249.01     98.18 -27080.37
+
+     hubbard stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     london  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     DFT-D3  stress (kbar)     -6.84     -0.00      0.10
+                               -0.00     -6.83      0.04
+                                0.10      0.04    -21.02
+
+     XDM     stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     dft-nl  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     TS-vdW  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+
+
+     Writing output data file ./Gr_BN.save/
+          total   stress  (Ry/bohr**3)                   (kbar)     P=        1.48
+   0.00000565   0.00000010   0.00000102            0.83        0.01        0.15
+   0.00000010   0.00000576   0.00000052            0.01        0.85        0.08
+   0.00000102   0.00000052   0.00001886            0.15        0.08        2.77
+
+     kinetic stress (kbar)  10668.02      0.06    -10.71
+                                0.06  10667.91     -4.21
+                              -10.71     -4.21  12058.11
+
+     local   stress (kbar) -24992.09      0.98   -359.60
+                                0.98 -24994.43   -141.78
+                             -359.60   -141.78  21009.65
+
+     nonloc. stress (kbar)   3905.14      0.00      2.47
+                                0.00   3905.12      0.98
+                                2.47      0.98   3591.36
+
+     hartree stress (kbar)   8395.98     -0.33    118.32
+                               -0.33   8396.76     46.64
+                              118.32     46.64  -6767.16
+
+     exc-cor stress (kbar)  -1386.31      0.00      0.83
+                                0.00  -1386.31      0.33
+                                0.83      0.33  -1493.45
+
+     corecor stress (kbar)  -1331.93     -0.03     -0.27
+                               -0.03  -1331.87     -0.10
+                               -0.27     -0.10  -1294.33
+
+     ewald   stress (kbar)   4748.85     -0.66    249.01
+                               -0.66   4750.50     98.18
+                              249.01     98.18 -27080.37
+
+     hubbard stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     london  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     DFT-D3  stress (kbar)     -6.84     -0.00      0.10
+                               -0.00     -6.83      0.04
+                                0.10      0.04    -21.02
+
+     XDM     stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     dft-nl  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     TS-vdW  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+
+
+     Writing output data file ./Gr_BN.save/
+
+     init_run     :      1.17s CPU      1.19s WALL (       1 calls)
+     electrons    :      6.63s CPU      6.63s WALL (       1 calls)
+     forces       :      2.31s CPU      2.31s WALL (       1 calls)
+     stress       :      2.99s CPU      3.00s WALL (       1 calls)
+
+     Called by init_run:
+     wfcinit      :      0.15s CPU      0.15s WALL (       1 calls)
+     wfcinit:atom :      0.00s CPU      0.00s WALL (      10 calls)
+     wfcinit:wfcr :      0.13s CPU      0.13s WALL (      10 calls)
+     potinit      :      0.33s CPU      0.34s WALL (       1 calls)
+     hinit0       :      0.67s CPU      0.67s WALL (       1 calls)
+
+     Called by electrons:
+     c_bands      :      3.12s CPU      3.12s WALL (       9 calls)
+     sum_band     :      0.56s CPU      0.56s WALL (       9 calls)
+     v_of_rho     :      0.16s CPU      0.16s WALL (      10 calls)
+     v_h          :      0.01s CPU      0.01s WALL (      10 calls)
+     v_xc         :      0.18s CPU      0.19s WALL (      12 calls)
+     newd         :      0.14s CPU      0.15s WALL (      10 calls)
+     PAW_pot      :      1.14s CPU      1.15s WALL (      10 calls)
+     mix_rho      :      0.01s CPU      0.01s WALL (       9 calls)
+
+     Called by c_bands:
+     init_us_2    :      0.07s CPU      0.07s WALL (     210 calls)
+     cegterg      :      3.04s CPU      3.04s WALL (      90 calls)
+
+     Called by sum_band:
+     sum_band:bec :      0.00s CPU      0.00s WALL (      90 calls)
+     addusdens    :      0.13s CPU      0.13s WALL (       9 calls)
+
+     Called by *egterg:
+     h_psi        :      2.35s CPU      2.35s WALL (     432 calls)
+     s_psi        :      0.18s CPU      0.18s WALL (     432 calls)
+     g_psi        :      0.01s CPU      0.01s WALL (     332 calls)
+     cdiaghg      :      0.08s CPU      0.08s WALL (     422 calls)
+     cegterg:over :      0.24s CPU      0.24s WALL (     332 calls)
+     cegterg:upda :      0.15s CPU      0.15s WALL (     332 calls)
+     cegterg:last :      0.08s CPU      0.08s WALL (      96 calls)
+
+     Called by h_psi:
+     h_psi:calbec :      0.22s CPU      0.22s WALL (     432 calls)
+     vloc_psi     :      1.94s CPU      1.94s WALL (     432 calls)
+     add_vuspsi   :      0.18s CPU      0.18s WALL (     432 calls)
+
+     General routines
+     calbec       :      0.33s CPU      0.33s WALL (     572 calls)
+     fft          :      0.06s CPU      0.06s WALL (     135 calls)
+     ffts         :      0.00s CPU      0.00s WALL (       9 calls)
+     fftw         :      2.05s CPU      2.05s WALL (    7794 calls)
+
+
+     PAW routines
+     PAW_pot      :      1.14s CPU      1.15s WALL (      10 calls)
+
+     PWSCF        :     13.76s CPU     14.03s WALL
+
+
+   This run was terminated on:  21:26: 2   4Jun2020            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
+
+     init_run     :      1.19s CPU      1.20s WALL (       1 calls)
+     electrons    :      6.57s CPU      6.58s WALL (       1 calls)
+     forces       :      2.32s CPU      2.33s WALL (       1 calls)
+     stress       :      3.00s CPU      3.00s WALL (       1 calls)
+
+     Called by init_run:
+     wfcinit      :      0.15s CPU      0.15s WALL (       1 calls)
+     wfcinit:atom :      0.00s CPU      0.00s WALL (      10 calls)
+     wfcinit:wfcr :      0.13s CPU      0.13s WALL (      10 calls)
+     potinit      :      0.33s CPU      0.34s WALL (       1 calls)
+     hinit0       :      0.69s CPU      0.69s WALL (       1 calls)
+
+     Called by electrons:
+     c_bands      :      3.07s CPU      3.08s WALL (       9 calls)
+     sum_band     :      0.55s CPU      0.56s WALL (       9 calls)
+     v_of_rho     :      0.16s CPU      0.16s WALL (      10 calls)
+     v_h          :      0.01s CPU      0.01s WALL (      10 calls)
+     v_xc         :      0.19s CPU      0.19s WALL (      12 calls)
+     newd         :      0.15s CPU      0.15s WALL (      10 calls)
+     PAW_pot      :      1.14s CPU      1.14s WALL (      10 calls)
+     mix_rho      :      0.01s CPU      0.01s WALL (       9 calls)
+
+     Called by c_bands:
+     init_us_2    :      0.07s CPU      0.07s WALL (     210 calls)
+     cegterg      :      2.99s CPU      3.00s WALL (      90 calls)
+
+     Called by sum_band:
+     sum_band:bec :      0.00s CPU      0.00s WALL (      90 calls)
+     addusdens    :      0.13s CPU      0.13s WALL (       9 calls)
+
+     Called by *egterg:
+     h_psi        :      2.30s CPU      2.31s WALL (     432 calls)
+     s_psi        :      0.18s CPU      0.18s WALL (     432 calls)
+     g_psi        :      0.01s CPU      0.01s WALL (     332 calls)
+     cdiaghg      :      0.08s CPU      0.08s WALL (     422 calls)
+     cegterg:over :      0.24s CPU      0.24s WALL (     332 calls)
+     cegterg:upda :      0.15s CPU      0.15s WALL (     332 calls)
+     cegterg:last :      0.08s CPU      0.08s WALL (      96 calls)
+
+     Called by h_psi:
+     h_psi:calbec :      0.22s CPU      0.22s WALL (     432 calls)
+     vloc_psi     :      1.90s CPU      1.90s WALL (     432 calls)
+     add_vuspsi   :      0.18s CPU      0.18s WALL (     432 calls)
+
+     General routines
+     calbec       :      0.33s CPU      0.33s WALL (     572 calls)
+     fft          :      0.06s CPU      0.06s WALL (     135 calls)
+     ffts         :      0.00s CPU      0.00s WALL (       9 calls)
+     fftw         :      2.01s CPU      2.01s WALL (    7794 calls)
+
+
+     PAW routines
+     PAW_pot      :      1.14s CPU      1.14s WALL (      10 calls)
+
+     PWSCF        :     13.75s CPU     14.06s WALL
+
+
+   This run was terminated on:  21:26: 2   4Jun2020            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=
+          total   stress  (Ry/bohr**3)                   (kbar)     P=        1.48
+   0.00000565   0.00000010   0.00000102            0.83        0.01        0.15
+   0.00000010   0.00000576   0.00000052            0.01        0.85        0.08
+   0.00000102   0.00000052   0.00001886            0.15        0.08        2.77
+
+     kinetic stress (kbar)  10668.02      0.06    -10.71
+                                0.06  10667.91     -4.21
+                              -10.71     -4.21  12058.11
+
+     local   stress (kbar) -24992.09      0.98   -359.60
+                                0.98 -24994.43   -141.78
+                             -359.60   -141.78  21009.65
+
+     nonloc. stress (kbar)   3905.14      0.00      2.47
+                                0.00   3905.12      0.98
+                                2.47      0.98   3591.36
+
+     hartree stress (kbar)   8395.98     -0.33    118.32
+                               -0.33   8396.76     46.64
+                              118.32     46.64  -6767.16
+
+     exc-cor stress (kbar)  -1386.31      0.00      0.83
+                                0.00  -1386.31      0.33
+                                0.83      0.33  -1493.45
+
+     corecor stress (kbar)  -1331.93     -0.03     -0.27
+                               -0.03  -1331.87     -0.10
+                               -0.27     -0.10  -1294.33
+
+     ewald   stress (kbar)   4748.85     -0.66    249.01
+                               -0.66   4750.50     98.18
+                              249.01     98.18 -27080.37
+
+     hubbard stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     london  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     DFT-D3  stress (kbar)     -6.84     -0.00      0.10
+                               -0.00     -6.83      0.04
+                                0.10      0.04    -21.02
+
+     XDM     stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     dft-nl  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+     TS-vdW  stress (kbar)      0.00      0.00      0.00
+                                0.00      0.00      0.00
+                                0.00      0.00      0.00
+
+
+
+     Writing output data file ./Gr_BN.save/
+
+     init_run     :      1.18s CPU      1.19s WALL (       1 calls)
+     electrons    :      6.61s CPU      6.63s WALL (       1 calls)
+     forces       :      2.32s CPU      2.32s WALL (       1 calls)
+     stress       :      3.01s CPU      3.01s WALL (       1 calls)
+
+     Called by init_run:
+     wfcinit      :      0.15s CPU      0.15s WALL (       1 calls)
+     wfcinit:atom :      0.00s CPU      0.00s WALL (      10 calls)
+     wfcinit:wfcr :      0.13s CPU      0.13s WALL (      10 calls)
+     potinit      :      0.34s CPU      0.34s WALL (       1 calls)
+     hinit0       :      0.68s CPU      0.68s WALL (       1 calls)
+
+     Called by electrons:
+     c_bands      :      3.09s CPU      3.11s WALL (       9 calls)
+     sum_band     :      0.56s CPU      0.56s WALL (       9 calls)
+     v_of_rho     :      0.16s CPU      0.16s WALL (      10 calls)
+     v_h          :      0.01s CPU      0.01s WALL (      10 calls)
+     v_xc         :      0.18s CPU      0.18s WALL (      12 calls)
+     newd         :      0.15s CPU      0.15s WALL (      10 calls)
+     PAW_pot      :      1.15s CPU      1.15s WALL (      10 calls)
+     mix_rho      :      0.01s CPU      0.01s WALL (       9 calls)
+
+     Called by c_bands:
+     init_us_2    :      0.07s CPU      0.07s WALL (     210 calls)
+     cegterg      :      3.01s CPU      3.03s WALL (      90 calls)
+
+     Called by sum_band:
+     sum_band:bec :      0.00s CPU      0.00s WALL (      90 calls)
+     addusdens    :      0.13s CPU      0.13s WALL (       9 calls)
+
+     Called by *egterg:
+     h_psi        :      2.33s CPU      2.33s WALL (     432 calls)
+     s_psi        :      0.17s CPU      0.18s WALL (     432 calls)
+     g_psi        :      0.01s CPU      0.01s WALL (     332 calls)
+     cdiaghg      :      0.08s CPU      0.09s WALL (     422 calls)
+     cegterg:over :      0.24s CPU      0.24s WALL (     332 calls)
+     cegterg:upda :      0.15s CPU      0.15s WALL (     332 calls)
+     cegterg:last :      0.08s CPU      0.08s WALL (      96 calls)
+
+     Called by h_psi:
+     h_psi:calbec :      0.22s CPU      0.22s WALL (     432 calls)
+     vloc_psi     :      1.92s CPU      1.92s WALL (     432 calls)
+     add_vuspsi   :      0.18s CPU      0.18s WALL (     432 calls)
+
+     General routines
+     calbec       :      0.33s CPU      0.33s WALL (     572 calls)
+     fft          :      0.06s CPU      0.06s WALL (     135 calls)
+     ffts         :      0.00s CPU      0.00s WALL (       9 calls)
+     fftw         :      2.02s CPU      2.03s WALL (    7794 calls)
+
+
+     PAW routines
+     PAW_pot      :      1.15s CPU      1.15s WALL (      10 calls)
+
+     PWSCF        :     13.78s CPU     14.10s WALL
+
+
+   This run was terminated on:  21:26: 2   4Jun2020            
+
+=------------------------------------------------------------------------------=
+   JOB DONE.
+=------------------------------------------------------------------------------=

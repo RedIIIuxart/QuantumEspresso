@@ -1,0 +1,6 @@
+&DOS
+ prefix='Gr_BN' ,
+ outdir='./' ,
+ fildos='Gr_BN.dos' ,
+/
+
